@@ -1,0 +1,191 @@
+clang++ -O3 -std=c++11 -g -Wall -I/usr/local/Cellar/boost/1.64.0_1/include -I/Users/tarekjost/Desktop/xerces-c-3.1.4/src  -DRAMULATOR -c -o obj/ALDRAM.o   -L/usr/local/Cellar/boost/1.64.0_1/lib -L/usr/local/Cellar/xerces-c/3.1.4/lib -L/Users/tarekjost/Downloads/DRAMPower-master/src -lboost_program_options -lxerces-c -ldrampowerxml -ldrampower src/ALDRAM.cpp
+clang: warning: -lboost_program_options: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -lxerces-c: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampowerxml: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampower: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/boost/1.64.0_1/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/xerces-c/3.1.4/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/Users/tarekjost/Downloads/DRAMPower-master/src' [-Wunused-command-line-argument]
+clang++ -O3 -std=c++11 -g -Wall -I/usr/local/Cellar/boost/1.64.0_1/include -I/Users/tarekjost/Desktop/xerces-c-3.1.4/src  -DRAMULATOR -c -o obj/Cache.o   -L/usr/local/Cellar/boost/1.64.0_1/lib -L/usr/local/Cellar/xerces-c/3.1.4/lib -L/Users/tarekjost/Downloads/DRAMPower-master/src -lboost_program_options -lxerces-c -ldrampowerxml -ldrampower src/Cache.cpp
+clang: warning: -lboost_program_options: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -lxerces-c: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampowerxml: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampower: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/boost/1.64.0_1/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/xerces-c/3.1.4/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/Users/tarekjost/Downloads/DRAMPower-master/src' [-Wunused-command-line-argument]
+clang++ -O3 -std=c++11 -g -Wall -I/usr/local/Cellar/boost/1.64.0_1/include -I/Users/tarekjost/Desktop/xerces-c-3.1.4/src  -DRAMULATOR -c -o obj/Config.o   -L/usr/local/Cellar/boost/1.64.0_1/lib -L/usr/local/Cellar/xerces-c/3.1.4/lib -L/Users/tarekjost/Downloads/DRAMPower-master/src -lboost_program_options -lxerces-c -ldrampowerxml -ldrampower src/Config.cpp
+clang: warning: -lboost_program_options: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -lxerces-c: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampowerxml: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampower: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/boost/1.64.0_1/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/xerces-c/3.1.4/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/Users/tarekjost/Downloads/DRAMPower-master/src' [-Wunused-command-line-argument]
+clang++ -O3 -std=c++11 -g -Wall -I/usr/local/Cellar/boost/1.64.0_1/include -I/Users/tarekjost/Desktop/xerces-c-3.1.4/src  -DRAMULATOR -c -o obj/Controller.o   -L/usr/local/Cellar/boost/1.64.0_1/lib -L/usr/local/Cellar/xerces-c/3.1.4/lib -L/Users/tarekjost/Downloads/DRAMPower-master/src -lboost_program_options -lxerces-c -ldrampowerxml -ldrampower src/Controller.cpp
+clang: warning: -lboost_program_options: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -lxerces-c: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampowerxml: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampower: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/boost/1.64.0_1/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/xerces-c/3.1.4/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/Users/tarekjost/Downloads/DRAMPower-master/src' [-Wunused-command-line-argument]
+clang++ -O3 -std=c++11 -g -Wall -I/usr/local/Cellar/boost/1.64.0_1/include -I/Users/tarekjost/Desktop/xerces-c-3.1.4/src  -DRAMULATOR -c -o obj/DDR3.o   -L/usr/local/Cellar/boost/1.64.0_1/lib -L/usr/local/Cellar/xerces-c/3.1.4/lib -L/Users/tarekjost/Downloads/DRAMPower-master/src -lboost_program_options -lxerces-c -ldrampowerxml -ldrampower src/DDR3.cpp
+clang: warning: -lboost_program_options: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -lxerces-c: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampowerxml: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampower: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/boost/1.64.0_1/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/xerces-c/3.1.4/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/Users/tarekjost/Downloads/DRAMPower-master/src' [-Wunused-command-line-argument]
+clang++ -O3 -std=c++11 -g -Wall -I/usr/local/Cellar/boost/1.64.0_1/include -I/Users/tarekjost/Desktop/xerces-c-3.1.4/src  -DRAMULATOR -c -o obj/DDR4.o   -L/usr/local/Cellar/boost/1.64.0_1/lib -L/usr/local/Cellar/xerces-c/3.1.4/lib -L/Users/tarekjost/Downloads/DRAMPower-master/src -lboost_program_options -lxerces-c -ldrampowerxml -ldrampower src/DDR4.cpp
+clang: warning: -lboost_program_options: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -lxerces-c: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampowerxml: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampower: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/boost/1.64.0_1/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/xerces-c/3.1.4/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/Users/tarekjost/Downloads/DRAMPower-master/src' [-Wunused-command-line-argument]
+clang++ -O3 -std=c++11 -g -Wall -I/usr/local/Cellar/boost/1.64.0_1/include -I/Users/tarekjost/Desktop/xerces-c-3.1.4/src  -DRAMULATOR -c -o obj/DSARP.o   -L/usr/local/Cellar/boost/1.64.0_1/lib -L/usr/local/Cellar/xerces-c/3.1.4/lib -L/Users/tarekjost/Downloads/DRAMPower-master/src -lboost_program_options -lxerces-c -ldrampowerxml -ldrampower src/DSARP.cpp
+clang: warning: -lboost_program_options: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -lxerces-c: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampowerxml: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampower: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/boost/1.64.0_1/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/xerces-c/3.1.4/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/Users/tarekjost/Downloads/DRAMPower-master/src' [-Wunused-command-line-argument]
+clang++ -O3 -std=c++11 -g -Wall -I/usr/local/Cellar/boost/1.64.0_1/include -I/Users/tarekjost/Desktop/xerces-c-3.1.4/src  -DRAMULATOR -c -o obj/GDDR5.o   -L/usr/local/Cellar/boost/1.64.0_1/lib -L/usr/local/Cellar/xerces-c/3.1.4/lib -L/Users/tarekjost/Downloads/DRAMPower-master/src -lboost_program_options -lxerces-c -ldrampowerxml -ldrampower src/GDDR5.cpp
+clang: warning: -lboost_program_options: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -lxerces-c: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampowerxml: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampower: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/boost/1.64.0_1/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/xerces-c/3.1.4/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/Users/tarekjost/Downloads/DRAMPower-master/src' [-Wunused-command-line-argument]
+clang++ -O3 -std=c++11 -g -Wall -I/usr/local/Cellar/boost/1.64.0_1/include -I/Users/tarekjost/Desktop/xerces-c-3.1.4/src  -DRAMULATOR -c -o obj/HBM.o   -L/usr/local/Cellar/boost/1.64.0_1/lib -L/usr/local/Cellar/xerces-c/3.1.4/lib -L/Users/tarekjost/Downloads/DRAMPower-master/src -lboost_program_options -lxerces-c -ldrampowerxml -ldrampower src/HBM.cpp
+clang: warning: -lboost_program_options: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -lxerces-c: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampowerxml: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampower: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/boost/1.64.0_1/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/xerces-c/3.1.4/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/Users/tarekjost/Downloads/DRAMPower-master/src' [-Wunused-command-line-argument]
+clang++ -O3 -std=c++11 -g -Wall -I/usr/local/Cellar/boost/1.64.0_1/include -I/Users/tarekjost/Desktop/xerces-c-3.1.4/src  -DRAMULATOR -c -o obj/HMC.o   -L/usr/local/Cellar/boost/1.64.0_1/lib -L/usr/local/Cellar/xerces-c/3.1.4/lib -L/Users/tarekjost/Downloads/DRAMPower-master/src -lboost_program_options -lxerces-c -ldrampowerxml -ldrampower src/HMC.cpp
+clang: warning: -lboost_program_options: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -lxerces-c: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampowerxml: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampower: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/boost/1.64.0_1/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/xerces-c/3.1.4/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/Users/tarekjost/Downloads/DRAMPower-master/src' [-Wunused-command-line-argument]
+clang++ -O3 -std=c++11 -g -Wall -I/usr/local/Cellar/boost/1.64.0_1/include -I/Users/tarekjost/Desktop/xerces-c-3.1.4/src  -DRAMULATOR -c -o obj/LPDDR3.o   -L/usr/local/Cellar/boost/1.64.0_1/lib -L/usr/local/Cellar/xerces-c/3.1.4/lib -L/Users/tarekjost/Downloads/DRAMPower-master/src -lboost_program_options -lxerces-c -ldrampowerxml -ldrampower src/LPDDR3.cpp
+clang: warning: -lboost_program_options: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -lxerces-c: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampowerxml: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampower: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/boost/1.64.0_1/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/xerces-c/3.1.4/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/Users/tarekjost/Downloads/DRAMPower-master/src' [-Wunused-command-line-argument]
+clang++ -O3 -std=c++11 -g -Wall -I/usr/local/Cellar/boost/1.64.0_1/include -I/Users/tarekjost/Desktop/xerces-c-3.1.4/src  -DRAMULATOR -c -o obj/LPDDR4.o   -L/usr/local/Cellar/boost/1.64.0_1/lib -L/usr/local/Cellar/xerces-c/3.1.4/lib -L/Users/tarekjost/Downloads/DRAMPower-master/src -lboost_program_options -lxerces-c -ldrampowerxml -ldrampower src/LPDDR4.cpp
+clang: warning: -lboost_program_options: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -lxerces-c: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampowerxml: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampower: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/boost/1.64.0_1/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/xerces-c/3.1.4/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/Users/tarekjost/Downloads/DRAMPower-master/src' [-Wunused-command-line-argument]
+clang++ -O3 -std=c++11 -g -Wall -I/usr/local/Cellar/boost/1.64.0_1/include -I/Users/tarekjost/Desktop/xerces-c-3.1.4/src  -DRAMULATOR -c -o obj/LogicLayer.o   -L/usr/local/Cellar/boost/1.64.0_1/lib -L/usr/local/Cellar/xerces-c/3.1.4/lib -L/Users/tarekjost/Downloads/DRAMPower-master/src -lboost_program_options -lxerces-c -ldrampowerxml -ldrampower src/LogicLayer.cpp
+clang: warning: -lboost_program_options: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -lxerces-c: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampowerxml: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampower: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/boost/1.64.0_1/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/xerces-c/3.1.4/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/Users/tarekjost/Downloads/DRAMPower-master/src' [-Wunused-command-line-argument]
+clang++ -O3 -std=c++11 -g -Wall -I/usr/local/Cellar/boost/1.64.0_1/include -I/Users/tarekjost/Desktop/xerces-c-3.1.4/src  -DRAMULATOR -c -o obj/MemoryFactory.o   -L/usr/local/Cellar/boost/1.64.0_1/lib -L/usr/local/Cellar/xerces-c/3.1.4/lib -L/Users/tarekjost/Downloads/DRAMPower-master/src -lboost_program_options -lxerces-c -ldrampowerxml -ldrampower src/MemoryFactory.cpp
+clang: warning: -lboost_program_options: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -lxerces-c: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampowerxml: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampower: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/boost/1.64.0_1/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/xerces-c/3.1.4/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/Users/tarekjost/Downloads/DRAMPower-master/src' [-Wunused-command-line-argument]
+clang++ -O3 -std=c++11 -g -Wall -I/usr/local/Cellar/boost/1.64.0_1/include -I/Users/tarekjost/Desktop/xerces-c-3.1.4/src  -DRAMULATOR -c -o obj/Packet.o   -L/usr/local/Cellar/boost/1.64.0_1/lib -L/usr/local/Cellar/xerces-c/3.1.4/lib -L/Users/tarekjost/Downloads/DRAMPower-master/src -lboost_program_options -lxerces-c -ldrampowerxml -ldrampower src/Packet.cpp
+clang: warning: -lboost_program_options: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -lxerces-c: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampowerxml: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampower: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/boost/1.64.0_1/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/xerces-c/3.1.4/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/Users/tarekjost/Downloads/DRAMPower-master/src' [-Wunused-command-line-argument]
+clang++ -O3 -std=c++11 -g -Wall -I/usr/local/Cellar/boost/1.64.0_1/include -I/Users/tarekjost/Desktop/xerces-c-3.1.4/src  -DRAMULATOR -c -o obj/Processor.o   -L/usr/local/Cellar/boost/1.64.0_1/lib -L/usr/local/Cellar/xerces-c/3.1.4/lib -L/Users/tarekjost/Downloads/DRAMPower-master/src -lboost_program_options -lxerces-c -ldrampowerxml -ldrampower src/Processor.cpp
+clang: warning: -lboost_program_options: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -lxerces-c: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampowerxml: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampower: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/boost/1.64.0_1/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/xerces-c/3.1.4/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/Users/tarekjost/Downloads/DRAMPower-master/src' [-Wunused-command-line-argument]
+clang++ -O3 -std=c++11 -g -Wall -I/usr/local/Cellar/boost/1.64.0_1/include -I/Users/tarekjost/Desktop/xerces-c-3.1.4/src  -DRAMULATOR -c -o obj/Refresh.o   -L/usr/local/Cellar/boost/1.64.0_1/lib -L/usr/local/Cellar/xerces-c/3.1.4/lib -L/Users/tarekjost/Downloads/DRAMPower-master/src -lboost_program_options -lxerces-c -ldrampowerxml -ldrampower src/Refresh.cpp
+clang: warning: -lboost_program_options: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -lxerces-c: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampowerxml: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampower: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/boost/1.64.0_1/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/xerces-c/3.1.4/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/Users/tarekjost/Downloads/DRAMPower-master/src' [-Wunused-command-line-argument]
+clang++ -O3 -std=c++11 -g -Wall -I/usr/local/Cellar/boost/1.64.0_1/include -I/Users/tarekjost/Desktop/xerces-c-3.1.4/src  -DRAMULATOR -c -o obj/SALP.o   -L/usr/local/Cellar/boost/1.64.0_1/lib -L/usr/local/Cellar/xerces-c/3.1.4/lib -L/Users/tarekjost/Downloads/DRAMPower-master/src -lboost_program_options -lxerces-c -ldrampowerxml -ldrampower src/SALP.cpp
+clang: warning: -lboost_program_options: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -lxerces-c: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampowerxml: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampower: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/boost/1.64.0_1/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/xerces-c/3.1.4/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/Users/tarekjost/Downloads/DRAMPower-master/src' [-Wunused-command-line-argument]
+clang++ -O3 -std=c++11 -g -Wall -I/usr/local/Cellar/boost/1.64.0_1/include -I/Users/tarekjost/Desktop/xerces-c-3.1.4/src  -DRAMULATOR -c -o obj/StatType.o   -L/usr/local/Cellar/boost/1.64.0_1/lib -L/usr/local/Cellar/xerces-c/3.1.4/lib -L/Users/tarekjost/Downloads/DRAMPower-master/src -lboost_program_options -lxerces-c -ldrampowerxml -ldrampower src/StatType.cpp
+clang: warning: -lboost_program_options: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -lxerces-c: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampowerxml: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampower: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/boost/1.64.0_1/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/xerces-c/3.1.4/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/Users/tarekjost/Downloads/DRAMPower-master/src' [-Wunused-command-line-argument]
+clang++ -O3 -std=c++11 -g -Wall -I/usr/local/Cellar/boost/1.64.0_1/include -I/Users/tarekjost/Desktop/xerces-c-3.1.4/src  -DRAMULATOR -c -o obj/TLDRAM.o   -L/usr/local/Cellar/boost/1.64.0_1/lib -L/usr/local/Cellar/xerces-c/3.1.4/lib -L/Users/tarekjost/Downloads/DRAMPower-master/src -lboost_program_options -lxerces-c -ldrampowerxml -ldrampower src/TLDRAM.cpp
+clang: warning: -lboost_program_options: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -lxerces-c: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampowerxml: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampower: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/boost/1.64.0_1/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/xerces-c/3.1.4/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/Users/tarekjost/Downloads/DRAMPower-master/src' [-Wunused-command-line-argument]
+clang++ -O3 -std=c++11 -g -Wall -I/usr/local/Cellar/boost/1.64.0_1/include -I/Users/tarekjost/Desktop/xerces-c-3.1.4/src  -DRAMULATOR -c -o obj/WideIO.o   -L/usr/local/Cellar/boost/1.64.0_1/lib -L/usr/local/Cellar/xerces-c/3.1.4/lib -L/Users/tarekjost/Downloads/DRAMPower-master/src -lboost_program_options -lxerces-c -ldrampowerxml -ldrampower src/WideIO.cpp
+clang: warning: -lboost_program_options: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -lxerces-c: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampowerxml: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampower: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/boost/1.64.0_1/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/xerces-c/3.1.4/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/Users/tarekjost/Downloads/DRAMPower-master/src' [-Wunused-command-line-argument]
+clang++ -O3 -std=c++11 -g -Wall -I/usr/local/Cellar/boost/1.64.0_1/include -I/Users/tarekjost/Desktop/xerces-c-3.1.4/src  -DRAMULATOR -c -o obj/WideIO2.o   -L/usr/local/Cellar/boost/1.64.0_1/lib -L/usr/local/Cellar/xerces-c/3.1.4/lib -L/Users/tarekjost/Downloads/DRAMPower-master/src -lboost_program_options -lxerces-c -ldrampowerxml -ldrampower src/WideIO2.cpp
+clang: warning: -lboost_program_options: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -lxerces-c: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampowerxml: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: -ldrampower: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/boost/1.64.0_1/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/usr/local/Cellar/xerces-c/3.1.4/lib' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-L/Users/tarekjost/Downloads/DRAMPower-master/src' [-Wunused-command-line-argument]
+clang++ -O3 -std=c++11 -g -Wall -I/usr/local/Cellar/boost/1.64.0_1/include -I/Users/tarekjost/Desktop/xerces-c-3.1.4/src  -DRAMULATOR -o ramulator src/Main.cpp   obj/ALDRAM.o  obj/Cache.o  obj/Config.o  obj/Controller.o  obj/DDR3.o  obj/DDR4.o  obj/DSARP.o  obj/GDDR5.o  obj/HBM.o  obj/HMC.o  obj/LPDDR3.o  obj/LPDDR4.o  obj/LogicLayer.o  obj/MemoryFactory.o  obj/Packet.o  obj/Processor.o  obj/Refresh.o  obj/SALP.o  obj/StatType.o  obj/TLDRAM.o  obj/WideIO.o  obj/WideIO2.o  -L/usr/local/Cellar/boost/1.64.0_1/lib -L/usr/local/Cellar/xerces-c/3.1.4/lib -L/Users/tarekjost/Downloads/DRAMPower-master/src -lboost_program_options -lxerces-c -ldrampowerxml -ldrampower
+Undefined symbols for architecture x86_64:
+  "libDRAMPower::updateCounters(bool)", referenced from:
+      ramulator::Controller<ramulator::HMC>::issue_cmd(ramulator::HMC::Command, std::__1::vector<int, std::__1::allocator<int> > const&) in Main-50d3f0.o
+      ramulator::Controller<ramulator::HMC>::finish(long) in Main-50d3f0.o
+      ramulator::Controller<ramulator::DDR3>::issue_cmd(ramulator::DDR3::Command, std::__1::vector<int, std::__1::allocator<int> > const&) in Main-50d3f0.o
+      ramulator::Controller<ramulator::DDR3>::finish(long) in Main-50d3f0.o
+      ramulator::Controller<ramulator::DDR4>::issue_cmd(ramulator::DDR4::Command, std::__1::vector<int, std::__1::allocator<int> > const&) in Main-50d3f0.o
+      ramulator::Controller<ramulator::DDR4>::finish(long) in Main-50d3f0.o
+      ramulator::Controller<ramulator::SALP>::issue_cmd(ramulator::SALP::Command, std::__1::vector<int, std::__1::allocator<int> > const&) in Main-50d3f0.o
+      ...
+     (maybe you meant: __ZN12libDRAMPower14updateCountersEbx)
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [ramulator] Error 1

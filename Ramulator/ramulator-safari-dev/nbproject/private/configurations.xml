@@ -1,0 +1,3460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <df name=".idea">
+      </df>
+      <df name="bochs-paper-configs">
+      </df>
+      <df name="cmake-build-debug">
+        <df name="CMakeFiles">
+          <df name="3.7.2">
+            <df name="CompilerIdC">
+              <in>CMakeCCompilerId.c</in>
+            </df>
+            <df name="CompilerIdCXX">
+              <in>CMakeCXXCompilerId.cpp</in>
+            </df>
+          </df>
+          <df name="CMakeTmp">
+          </df>
+          <df name="Progress">
+          </df>
+          <df name="ramulator_safari_dev.dir">
+            <df name="src">
+              <df name="cli">
+              </df>
+              <df name="libdrampower">
+                <df name="cli">
+                </df>
+                <df name="xercesc">
+                  <df name="dom">
+                    <df name="impl">
+                    </df>
+                  </df>
+                  <df name="framework">
+                    <df name="psvi">
+                    </df>
+                  </df>
+                  <df name="internal">
+                  </df>
+                  <df name="parsers">
+                  </df>
+                  <df name="sax">
+                  </df>
+                  <df name="sax2">
+                  </df>
+                  <df name="util">
+                    <df name="FileManagers">
+                    </df>
+                    <df name="MsgLoaders">
+                      <df name="ICU">
+                      </df>
+                      <df name="InMemory">
+                      </df>
+                      <df name="MsgCatalog">
+                      </df>
+                      <df name="Win32">
+                      </df>
+                    </df>
+                    <df name="MutexManagers">
+                    </df>
+                    <df name="NetAccessors">
+                      <df name="Curl">
+                      </df>
+                      <df name="MacOSURLAccessCF">
+                      </df>
+                      <df name="Socket">
+                      </df>
+                      <df name="WinSock">
+                      </df>
+                    </df>
+                    <df name="regx">
+                    </df>
+                    <df name="Transcoders">
+                      <df name="Iconv">
+                      </df>
+                      <df name="IconvGNU">
+                      </df>
+                      <df name="ICU">
+                      </df>
+                      <df name="MacOSUnicodeConverter">
+                      </df>
+                      <df name="Win32">
+                      </df>
+                    </df>
+                  </df>
+                  <df name="validators">
+                    <df name="common">
+                    </df>
+                    <df name="datatype">
+                    </df>
+                    <df name="DTD">
+                    </df>
+                    <df name="schema">
+                      <df name="identity">
+                      </df>
+                    </df>
+                  </df>
+                  <df name="xinclude">
+                  </df>
+                </df>
+                <df name="xmlparser">
+                  <df name="cli">
+                  </df>
+                  <df name="libdrampower">
+                  </df>
+                </df>
+              </df>
+              <df name="xercesc">
+                <df name="dom">
+                  <df name="impl">
+                  </df>
+                </df>
+                <df name="framework">
+                  <df name="psvi">
+                  </df>
+                </df>
+                <df name="internal">
+                </df>
+                <df name="parsers">
+                </df>
+                <df name="sax">
+                </df>
+                <df name="sax2">
+                </df>
+                <df name="util">
+                  <df name="FileManagers">
+                  </df>
+                  <df name="MsgLoaders">
+                    <df name="ICU">
+                    </df>
+                    <df name="InMemory">
+                    </df>
+                    <df name="MsgCatalog">
+                    </df>
+                    <df name="Win32">
+                    </df>
+                  </df>
+                  <df name="MutexManagers">
+                  </df>
+                  <df name="NetAccessors">
+                    <df name="Curl">
+                    </df>
+                    <df name="MacOSURLAccessCF">
+                    </df>
+                    <df name="Socket">
+                    </df>
+                    <df name="WinSock">
+                    </df>
+                  </df>
+                  <df name="regx">
+                  </df>
+                  <df name="Transcoders">
+                    <df name="Iconv">
+                    </df>
+                    <df name="IconvGNU">
+                    </df>
+                    <df name="ICU">
+                    </df>
+                    <df name="MacOSUnicodeConverter">
+                    </df>
+                    <df name="Win32">
+                    </df>
+                  </df>
+                </df>
+                <df name="validators">
+                  <df name="common">
+                  </df>
+                  <df name="datatype">
+                  </df>
+                  <df name="DTD">
+                  </df>
+                  <df name="schema">
+                    <df name="identity">
+                    </df>
+                  </df>
+                </df>
+                <df name="xinclude">
+                </df>
+              </df>
+              <df name="xmlparser">
+                <df name="cli">
+                </df>
+                <df name="libdrampower">
+                </df>
+                <df name="xercesc">
+                  <df name="dom">
+                    <df name="impl">
+                    </df>
+                  </df>
+                  <df name="framework">
+                    <df name="psvi">
+                    </df>
+                  </df>
+                  <df name="internal">
+                  </df>
+                  <df name="parsers">
+                  </df>
+                  <df name="sax">
+                  </df>
+                  <df name="sax2">
+                  </df>
+                  <df name="util">
+                    <df name="FileManagers">
+                    </df>
+                    <df name="MsgLoaders">
+                      <df name="ICU">
+                      </df>
+                      <df name="InMemory">
+                      </df>
+                      <df name="MsgCatalog">
+                      </df>
+                      <df name="Win32">
+                      </df>
+                    </df>
+                    <df name="MutexManagers">
+                    </df>
+                    <df name="NetAccessors">
+                      <df name="Curl">
+                      </df>
+                      <df name="MacOSURLAccessCF">
+                      </df>
+                      <df name="Socket">
+                      </df>
+                      <df name="WinSock">
+                      </df>
+                    </df>
+                    <df name="regx">
+                    </df>
+                    <df name="Transcoders">
+                      <df name="Iconv">
+                      </df>
+                      <df name="IconvGNU">
+                      </df>
+                      <df name="ICU">
+                      </df>
+                      <df name="MacOSUnicodeConverter">
+                      </df>
+                      <df name="Win32">
+                      </df>
+                    </df>
+                  </df>
+                  <df name="validators">
+                    <df name="common">
+                    </df>
+                    <df name="datatype">
+                    </df>
+                    <df name="DTD">
+                    </df>
+                    <df name="schema">
+                      <df name="identity">
+                      </df>
+                    </df>
+                  </df>
+                  <df name="xinclude">
+                  </df>
+                </df>
+              </df>
+            </df>
+          </df>
+          <in>feature_tests.c</in>
+          <in>feature_tests.cxx</in>
+        </df>
+      </df>
+      <df name="configs">
+      </df>
+      <df name="cputraces">
+      </df>
+      <df name="filtered-trace-paper-configs">
+      </df>
+      <df name="freescale-required-configs">
+      </df>
+      <df name="obj">
+      </df>
+      <df name="paper-configs">
+      </df>
+      <df name="powerspecs">
+      </df>
+      <df name="ramulator.dSYM">
+        <df name="Contents">
+          <df name="Resources">
+            <df name="DWARF">
+            </df>
+          </df>
+        </df>
+      </df>
+      <df name="run_scripts">
+        <df name="bochs-trace">
+        </df>
+        <df name="DRAM-trace">
+        </df>
+        <df name="pin-trace">
+          <df name="original">
+            <df name="grep-map0">
+            </df>
+          </df>
+        </df>
+        <df name="rc-trace">
+        </df>
+      </df>
+      <df name="SoC-configs">
+      </df>
+      <df name="src">
+        <df name="cli">
+          <in>drampower.cc</in>
+        </df>
+        <df name="libdrampower">
+          <df name="cli">
+            <in>drampower.cc</in>
+          </df>
+          <df name="xercesc">
+            <df name="dom">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <df name="impl">
+                <df name=".deps">
+                </df>
+                <df name=".libs">
+                </df>
+                <in>DOMAttrImpl.cpp</in>
+                <in>DOMAttrImpl.hpp</in>
+                <in>DOMAttrMapImpl.cpp</in>
+                <in>DOMAttrMapImpl.hpp</in>
+                <in>DOMAttrNSImpl.cpp</in>
+                <in>DOMAttrNSImpl.hpp</in>
+                <in>DOMCDATASectionImpl.cpp</in>
+                <in>DOMCDATASectionImpl.hpp</in>
+                <in>DOMCasts.hpp</in>
+                <in>DOMCharacterDataImpl.cpp</in>
+                <in>DOMCharacterDataImpl.hpp</in>
+                <in>DOMChildNode.cpp</in>
+                <in>DOMChildNode.hpp</in>
+                <in>DOMCommentImpl.cpp</in>
+                <in>DOMCommentImpl.hpp</in>
+                <in>DOMConfigurationImpl.cpp</in>
+                <in>DOMConfigurationImpl.hpp</in>
+                <in>DOMDeepNodeListImpl.cpp</in>
+                <in>DOMDeepNodeListImpl.hpp</in>
+                <in>DOMDeepNodeListPool.c</in>
+                <in>DOMDeepNodeListPool.hpp</in>
+                <in>DOMDocumentFragmentImpl.cpp</in>
+                <in>DOMDocumentFragmentImpl.hpp</in>
+                <in>DOMDocumentImpl.cpp</in>
+                <in>DOMDocumentImpl.hpp</in>
+                <in>DOMDocumentTypeImpl.cpp</in>
+                <in>DOMDocumentTypeImpl.hpp</in>
+                <in>DOMElementImpl.cpp</in>
+                <in>DOMElementImpl.hpp</in>
+                <in>DOMElementNSImpl.cpp</in>
+                <in>DOMElementNSImpl.hpp</in>
+                <in>DOMEntityImpl.cpp</in>
+                <in>DOMEntityImpl.hpp</in>
+                <in>DOMEntityReferenceImpl.cpp</in>
+                <in>DOMEntityReferenceImpl.hpp</in>
+                <in>DOMErrorImpl.cpp</in>
+                <in>DOMErrorImpl.hpp</in>
+                <in>DOMImplementationImpl.cpp</in>
+                <in>DOMImplementationImpl.hpp</in>
+                <in>DOMImplementationListImpl.cpp</in>
+                <in>DOMImplementationListImpl.hpp</in>
+                <in>DOMImplementationRegistry.cpp</in>
+                <in>DOMLSInputImpl.cpp</in>
+                <in>DOMLSInputImpl.hpp</in>
+                <in>DOMLSOutputImpl.cpp</in>
+                <in>DOMLSOutputImpl.hpp</in>
+                <in>DOMLSSerializerImpl.cpp</in>
+                <in>DOMLSSerializerImpl.hpp</in>
+                <in>DOMLocatorImpl.cpp</in>
+                <in>DOMLocatorImpl.hpp</in>
+                <in>DOMNamedNodeMapImpl.cpp</in>
+                <in>DOMNamedNodeMapImpl.hpp</in>
+                <in>DOMNodeIDMap.cpp</in>
+                <in>DOMNodeIDMap.hpp</in>
+                <in>DOMNodeImpl.cpp</in>
+                <in>DOMNodeImpl.hpp</in>
+                <in>DOMNodeIteratorImpl.cpp</in>
+                <in>DOMNodeIteratorImpl.hpp</in>
+                <in>DOMNodeListImpl.cpp</in>
+                <in>DOMNodeListImpl.hpp</in>
+                <in>DOMNodeVector.cpp</in>
+                <in>DOMNodeVector.hpp</in>
+                <in>DOMNormalizer.cpp</in>
+                <in>DOMNormalizer.hpp</in>
+                <in>DOMNotationImpl.cpp</in>
+                <in>DOMNotationImpl.hpp</in>
+                <in>DOMParentNode.cpp</in>
+                <in>DOMParentNode.hpp</in>
+                <in>DOMProcessingInstructionImpl.cpp</in>
+                <in>DOMProcessingInstructionImpl.hpp</in>
+                <in>DOMRangeImpl.cpp</in>
+                <in>DOMRangeImpl.hpp</in>
+                <in>DOMStringListImpl.cpp</in>
+                <in>DOMStringListImpl.hpp</in>
+                <in>DOMStringPool.cpp</in>
+                <in>DOMStringPool.hpp</in>
+                <in>DOMTextImpl.cpp</in>
+                <in>DOMTextImpl.hpp</in>
+                <in>DOMTreeWalkerImpl.cpp</in>
+                <in>DOMTreeWalkerImpl.hpp</in>
+                <in>DOMTypeInfoImpl.cpp</in>
+                <in>DOMTypeInfoImpl.hpp</in>
+                <in>DOMXPathExpressionImpl.cpp</in>
+                <in>DOMXPathExpressionImpl.hpp</in>
+                <in>DOMXPathNSResolverImpl.cpp</in>
+                <in>DOMXPathNSResolverImpl.hpp</in>
+                <in>DOMXPathResultImpl.cpp</in>
+                <in>DOMXPathResultImpl.hpp</in>
+                <in>XSDElementNSImpl.cpp</in>
+                <in>XSDElementNSImpl.hpp</in>
+              </df>
+              <in>DOM.hpp</in>
+              <in>DOMAttr.hpp</in>
+              <in>DOMCDATASection.hpp</in>
+              <in>DOMCharacterData.hpp</in>
+              <in>DOMComment.hpp</in>
+              <in>DOMConfiguration.hpp</in>
+              <in>DOMDocument.hpp</in>
+              <in>DOMDocumentFragment.hpp</in>
+              <in>DOMDocumentRange.hpp</in>
+              <in>DOMDocumentTraversal.hpp</in>
+              <in>DOMDocumentType.hpp</in>
+              <in>DOMElement.hpp</in>
+              <in>DOMEntity.hpp</in>
+              <in>DOMEntityReference.hpp</in>
+              <in>DOMError.hpp</in>
+              <in>DOMErrorHandler.hpp</in>
+              <in>DOMException.cpp</in>
+              <in>DOMException.hpp</in>
+              <in>DOMImplementation.hpp</in>
+              <in>DOMImplementationLS.hpp</in>
+              <in>DOMImplementationList.hpp</in>
+              <in>DOMImplementationRegistry.hpp</in>
+              <in>DOMImplementationSource.hpp</in>
+              <in>DOMLSException.cpp</in>
+              <in>DOMLSException.hpp</in>
+              <in>DOMLSInput.hpp</in>
+              <in>DOMLSOutput.hpp</in>
+              <in>DOMLSParser.hpp</in>
+              <in>DOMLSParserFilter.hpp</in>
+              <in>DOMLSResourceResolver.hpp</in>
+              <in>DOMLSSerializer.hpp</in>
+              <in>DOMLSSerializerFilter.hpp</in>
+              <in>DOMLocator.hpp</in>
+              <in>DOMMemoryManager.hpp</in>
+              <in>DOMNamedNodeMap.hpp</in>
+              <in>DOMNode.hpp</in>
+              <in>DOMNodeFilter.hpp</in>
+              <in>DOMNodeIterator.hpp</in>
+              <in>DOMNodeList.hpp</in>
+              <in>DOMNotation.hpp</in>
+              <in>DOMPSVITypeInfo.hpp</in>
+              <in>DOMProcessingInstruction.hpp</in>
+              <in>DOMRange.hpp</in>
+              <in>DOMRangeException.cpp</in>
+              <in>DOMRangeException.hpp</in>
+              <in>DOMStringList.hpp</in>
+              <in>DOMText.hpp</in>
+              <in>DOMTreeWalker.hpp</in>
+              <in>DOMTypeInfo.hpp</in>
+              <in>DOMUserDataHandler.hpp</in>
+              <in>DOMXPathEvaluator.hpp</in>
+              <in>DOMXPathException.cpp</in>
+              <in>DOMXPathException.hpp</in>
+              <in>DOMXPathExpression.hpp</in>
+              <in>DOMXPathNSResolver.hpp</in>
+              <in>DOMXPathNamespace.hpp</in>
+              <in>DOMXPathResult.hpp</in>
+              <in>StDOMNode.hpp</in>
+            </df>
+            <df name="framework">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <df name="psvi">
+                <df name=".deps">
+                </df>
+                <df name=".libs">
+                </df>
+                <in>PSVIAttribute.cpp</in>
+                <in>PSVIAttribute.hpp</in>
+                <in>PSVIAttributeList.cpp</in>
+                <in>PSVIAttributeList.hpp</in>
+                <in>PSVIElement.cpp</in>
+                <in>PSVIElement.hpp</in>
+                <in>PSVIHandler.hpp</in>
+                <in>PSVIItem.cpp</in>
+                <in>PSVIItem.hpp</in>
+                <in>XSAnnotation.cpp</in>
+                <in>XSAnnotation.hpp</in>
+                <in>XSAttributeDeclaration.cpp</in>
+                <in>XSAttributeDeclaration.hpp</in>
+                <in>XSAttributeGroupDefinition.cpp</in>
+                <in>XSAttributeGroupDefinition.hpp</in>
+                <in>XSAttributeUse.cpp</in>
+                <in>XSAttributeUse.hpp</in>
+                <in>XSComplexTypeDefinition.cpp</in>
+                <in>XSComplexTypeDefinition.hpp</in>
+                <in>XSConstants.hpp</in>
+                <in>XSElementDeclaration.cpp</in>
+                <in>XSElementDeclaration.hpp</in>
+                <in>XSFacet.cpp</in>
+                <in>XSFacet.hpp</in>
+                <in>XSIDCDefinition.cpp</in>
+                <in>XSIDCDefinition.hpp</in>
+                <in>XSModel.cpp</in>
+                <in>XSModel.hpp</in>
+                <in>XSModelGroup.cpp</in>
+                <in>XSModelGroup.hpp</in>
+                <in>XSModelGroupDefinition.cpp</in>
+                <in>XSModelGroupDefinition.hpp</in>
+                <in>XSMultiValueFacet.cpp</in>
+                <in>XSMultiValueFacet.hpp</in>
+                <in>XSNamedMap.c</in>
+                <in>XSNamedMap.hpp</in>
+                <in>XSNamespaceItem.cpp</in>
+                <in>XSNamespaceItem.hpp</in>
+                <in>XSNotationDeclaration.cpp</in>
+                <in>XSNotationDeclaration.hpp</in>
+                <in>XSObject.cpp</in>
+                <in>XSObject.hpp</in>
+                <in>XSParticle.cpp</in>
+                <in>XSParticle.hpp</in>
+                <in>XSSimpleTypeDefinition.cpp</in>
+                <in>XSSimpleTypeDefinition.hpp</in>
+                <in>XSTypeDefinition.cpp</in>
+                <in>XSTypeDefinition.hpp</in>
+                <in>XSValue.cpp</in>
+                <in>XSValue.hpp</in>
+                <in>XSWildcard.cpp</in>
+                <in>XSWildcard.hpp</in>
+              </df>
+              <in>BinOutputStream.cpp</in>
+              <in>BinOutputStream.hpp</in>
+              <in>LocalFileFormatTarget.cpp</in>
+              <in>LocalFileFormatTarget.hpp</in>
+              <in>LocalFileInputSource.cpp</in>
+              <in>LocalFileInputSource.hpp</in>
+              <in>MemBufFormatTarget.cpp</in>
+              <in>MemBufFormatTarget.hpp</in>
+              <in>MemBufInputSource.cpp</in>
+              <in>MemBufInputSource.hpp</in>
+              <in>MemoryManager.hpp</in>
+              <in>StdInInputSource.cpp</in>
+              <in>StdInInputSource.hpp</in>
+              <in>StdOutFormatTarget.cpp</in>
+              <in>StdOutFormatTarget.hpp</in>
+              <in>URLInputSource.cpp</in>
+              <in>URLInputSource.hpp</in>
+              <in>ValidationContext.hpp</in>
+              <in>Wrapper4DOMLSInput.cpp</in>
+              <in>Wrapper4DOMLSInput.hpp</in>
+              <in>Wrapper4InputSource.cpp</in>
+              <in>Wrapper4InputSource.hpp</in>
+              <in>XMLAttDef.cpp</in>
+              <in>XMLAttDef.hpp</in>
+              <in>XMLAttDefList.cpp</in>
+              <in>XMLAttDefList.hpp</in>
+              <in>XMLAttr.cpp</in>
+              <in>XMLAttr.hpp</in>
+              <in>XMLBuffer.cpp</in>
+              <in>XMLBuffer.hpp</in>
+              <in>XMLBufferMgr.cpp</in>
+              <in>XMLBufferMgr.hpp</in>
+              <in>XMLContentModel.cpp</in>
+              <in>XMLContentModel.hpp</in>
+              <in>XMLDTDDescription.cpp</in>
+              <in>XMLDTDDescription.hpp</in>
+              <in>XMLDocumentHandler.hpp</in>
+              <in>XMLElementDecl.cpp</in>
+              <in>XMLElementDecl.hpp</in>
+              <in>XMLEntityDecl.cpp</in>
+              <in>XMLEntityDecl.hpp</in>
+              <in>XMLEntityHandler.hpp</in>
+              <in>XMLErrorCodes.hpp</in>
+              <in>XMLErrorReporter.hpp</in>
+              <in>XMLFormatter.cpp</in>
+              <in>XMLFormatter.hpp</in>
+              <in>XMLGrammarDescription.cpp</in>
+              <in>XMLGrammarDescription.hpp</in>
+              <in>XMLGrammarPool.hpp</in>
+              <in>XMLGrammarPoolImpl.cpp</in>
+              <in>XMLGrammarPoolImpl.hpp</in>
+              <in>XMLNotationDecl.cpp</in>
+              <in>XMLNotationDecl.hpp</in>
+              <in>XMLPScanToken.hpp</in>
+              <in>XMLRecognizer.cpp</in>
+              <in>XMLRecognizer.hpp</in>
+              <in>XMLRefInfo.cpp</in>
+              <in>XMLRefInfo.hpp</in>
+              <in>XMLSchemaDescription.cpp</in>
+              <in>XMLSchemaDescription.hpp</in>
+              <in>XMLValidator.cpp</in>
+              <in>XMLValidator.hpp</in>
+              <in>XMLValidityCodes.hpp</in>
+            </df>
+            <df name="internal">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <in>BinFileOutputStream.cpp</in>
+              <in>BinFileOutputStream.hpp</in>
+              <in>BinMemOutputStream.cpp</in>
+              <in>BinMemOutputStream.hpp</in>
+              <in>CharTypeTables.hpp</in>
+              <in>DGXMLScanner.cpp</in>
+              <in>DGXMLScanner.hpp</in>
+              <in>ElemStack.cpp</in>
+              <in>ElemStack.hpp</in>
+              <in>EndOfEntityException.hpp</in>
+              <in>IANAEncodings.hpp</in>
+              <in>IGXMLScanner.cpp</in>
+              <in>IGXMLScanner.hpp</in>
+              <in>IGXMLScanner2.cpp</in>
+              <in>MemoryManagerImpl.cpp</in>
+              <in>MemoryManagerImpl.hpp</in>
+              <in>ReaderMgr.cpp</in>
+              <in>ReaderMgr.hpp</in>
+              <in>SGXMLScanner.cpp</in>
+              <in>SGXMLScanner.hpp</in>
+              <in>ValidationContextImpl.cpp</in>
+              <in>ValidationContextImpl.hpp</in>
+              <in>VecAttrListImpl.cpp</in>
+              <in>VecAttrListImpl.hpp</in>
+              <in>VecAttributesImpl.cpp</in>
+              <in>VecAttributesImpl.hpp</in>
+              <in>WFXMLScanner.cpp</in>
+              <in>WFXMLScanner.hpp</in>
+              <in>XMLInternalErrorHandler.hpp</in>
+              <in>XMLReader.cpp</in>
+              <in>XMLReader.hpp</in>
+              <in>XMLScanner.cpp</in>
+              <in>XMLScanner.hpp</in>
+              <in>XMLScannerResolver.cpp</in>
+              <in>XMLScannerResolver.hpp</in>
+              <in>XProtoType.cpp</in>
+              <in>XProtoType.hpp</in>
+              <in>XSAXMLScanner.cpp</in>
+              <in>XSAXMLScanner.hpp</in>
+              <in>XSObjectFactory.cpp</in>
+              <in>XSObjectFactory.hpp</in>
+              <in>XSerializable.hpp</in>
+              <in>XSerializationException.hpp</in>
+              <in>XSerializeEngine.cpp</in>
+              <in>XSerializeEngine.hpp</in>
+              <in>XTemplateSerializer.cpp</in>
+              <in>XTemplateSerializer.hpp</in>
+            </df>
+            <df name="NLS">
+              <df name="EN_US">
+              </df>
+            </df>
+            <df name="parsers">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <in>AbstractDOMParser.cpp</in>
+              <in>AbstractDOMParser.hpp</in>
+              <in>DOMLSParserImpl.cpp</in>
+              <in>DOMLSParserImpl.hpp</in>
+              <in>SAX2XMLFilterImpl.cpp</in>
+              <in>SAX2XMLFilterImpl.hpp</in>
+              <in>SAX2XMLReaderImpl.cpp</in>
+              <in>SAX2XMLReaderImpl.hpp</in>
+              <in>SAXParser.cpp</in>
+              <in>SAXParser.hpp</in>
+              <in>XercesDOMParser.cpp</in>
+              <in>XercesDOMParser.hpp</in>
+            </df>
+            <df name="sax">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <in>AttributeList.hpp</in>
+              <in>DTDHandler.hpp</in>
+              <in>DocumentHandler.hpp</in>
+              <in>Dummy.cpp</in>
+              <in>EntityResolver.hpp</in>
+              <in>ErrorHandler.hpp</in>
+              <in>HandlerBase.hpp</in>
+              <in>InputSource.cpp</in>
+              <in>InputSource.hpp</in>
+              <in>Locator.hpp</in>
+              <in>Parser.hpp</in>
+              <in>SAXException.cpp</in>
+              <in>SAXException.hpp</in>
+              <in>SAXParseException.cpp</in>
+              <in>SAXParseException.hpp</in>
+            </df>
+            <df name="sax2">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <in>Attributes.hpp</in>
+              <in>ContentHandler.hpp</in>
+              <in>DeclHandler.hpp</in>
+              <in>DefaultHandler.hpp</in>
+              <in>LexicalHandler.hpp</in>
+              <in>SAX2XMLFilter.hpp</in>
+              <in>SAX2XMLReader.hpp</in>
+              <in>XMLReaderFactory.hpp</in>
+              <in>sax2Dummy.cpp</in>
+            </df>
+            <df name="util">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <df name="FileManagers">
+                <df name=".deps">
+                </df>
+                <df name=".libs">
+                </df>
+                <in>PosixFileMgr.cpp</in>
+                <in>PosixFileMgr.hpp</in>
+                <in>WindowsFileMgr.cpp</in>
+                <in>WindowsFileMgr.hpp</in>
+              </df>
+              <df name="MsgLoaders">
+                <df name="ICU">
+                  <df name=".deps">
+                  </df>
+                  <df name="resources">
+                  </df>
+                  <in>ICUMsgLoader.cpp</in>
+                  <in>ICUMsgLoader.hpp</in>
+                </df>
+                <df name="InMemory">
+                  <df name=".deps">
+                  </df>
+                  <df name=".libs">
+                  </df>
+                  <in>InMemMsgLoader.cpp</in>
+                  <in>InMemMsgLoader.hpp</in>
+                  <in>XercesMessages_en_US.hpp</in>
+                </df>
+                <df name="MsgCatalog">
+                  <df name=".deps">
+                  </df>
+                  <in>MsgCatalogLoader.cpp</in>
+                  <in>MsgCatalogLoader.hpp</in>
+                  <in>XMLMsgCat_Ids.hpp</in>
+                </df>
+                <df name="Win32">
+                  <in>Win32MsgLoader.cpp</in>
+                  <in>Win32MsgLoader.hpp</in>
+                  <in>resource.h</in>
+                </df>
+              </df>
+              <df name="MutexManagers">
+                <df name=".deps">
+                </df>
+                <df name=".libs">
+                </df>
+                <in>NoThreadMutexMgr.cpp</in>
+                <in>NoThreadMutexMgr.hpp</in>
+                <in>PosixMutexMgr.cpp</in>
+                <in>PosixMutexMgr.hpp</in>
+                <in>WindowsMutexMgr.cpp</in>
+                <in>WindowsMutexMgr.hpp</in>
+              </df>
+              <df name="NetAccessors">
+                <df name=".deps">
+                </df>
+                <df name="Curl">
+                  <df name=".deps">
+                  </df>
+                  <df name=".libs">
+                  </df>
+                  <in>CurlNetAccessor.cpp</in>
+                  <in>CurlNetAccessor.hpp</in>
+                  <in>CurlURLInputStream.cpp</in>
+                  <in>CurlURLInputStream.hpp</in>
+                </df>
+                <df name="MacOSURLAccessCF">
+                  <df name=".deps">
+                  </df>
+                  <in>MacOSURLAccessCF.cpp</in>
+                  <in>MacOSURLAccessCF.hpp</in>
+                  <in>URLAccessCFBinInputStream.cpp</in>
+                  <in>URLAccessCFBinInputStream.hpp</in>
+                </df>
+                <df name="Socket">
+                  <df name=".deps">
+                  </df>
+                  <in>SocketNetAccessor.cpp</in>
+                  <in>SocketNetAccessor.hpp</in>
+                  <in>UnixHTTPURLInputStream.cpp</in>
+                  <in>UnixHTTPURLInputStream.hpp</in>
+                </df>
+                <df name="WinSock">
+                  <df name=".deps">
+                  </df>
+                  <in>BinHTTPURLInputStream.cpp</in>
+                  <in>BinHTTPURLInputStream.hpp</in>
+                  <in>WinSockNetAccessor.cpp</in>
+                  <in>WinSockNetAccessor.hpp</in>
+                </df>
+                <in>BinHTTPInputStreamCommon.cpp</in>
+                <in>BinHTTPInputStreamCommon.hpp</in>
+              </df>
+              <df name="regx">
+                <df name=".deps">
+                </df>
+                <df name=".libs">
+                </df>
+                <in>ASCIIRangeFactory.cpp</in>
+                <in>ASCIIRangeFactory.hpp</in>
+                <in>BMPattern.cpp</in>
+                <in>BMPattern.hpp</in>
+                <in>BlockRangeFactory.cpp</in>
+                <in>BlockRangeFactory.hpp</in>
+                <in>CharToken.cpp</in>
+                <in>CharToken.hpp</in>
+                <in>ClosureToken.cpp</in>
+                <in>ClosureToken.hpp</in>
+                <in>ConcatToken.cpp</in>
+                <in>ConcatToken.hpp</in>
+                <in>Match.cpp</in>
+                <in>Match.hpp</in>
+                <in>Op.cpp</in>
+                <in>Op.hpp</in>
+                <in>OpFactory.cpp</in>
+                <in>OpFactory.hpp</in>
+                <in>ParenToken.cpp</in>
+                <in>ParenToken.hpp</in>
+                <in>ParserForXMLSchema.cpp</in>
+                <in>ParserForXMLSchema.hpp</in>
+                <in>RangeFactory.cpp</in>
+                <in>RangeFactory.hpp</in>
+                <in>RangeToken.cpp</in>
+                <in>RangeToken.hpp</in>
+                <in>RangeTokenMap.cpp</in>
+                <in>RangeTokenMap.hpp</in>
+                <in>RegularExpression.cpp</in>
+                <in>RegularExpression.hpp</in>
+                <in>RegxDefs.hpp</in>
+                <in>RegxParser.cpp</in>
+                <in>RegxParser.hpp</in>
+                <in>RegxUtil.cpp</in>
+                <in>RegxUtil.hpp</in>
+                <in>StringToken.cpp</in>
+                <in>StringToken.hpp</in>
+                <in>Token.cpp</in>
+                <in>Token.hpp</in>
+                <in>TokenFactory.cpp</in>
+                <in>TokenFactory.hpp</in>
+                <in>TokenInc.hpp</in>
+                <in>UniCharTable.hpp</in>
+                <in>UnicodeRangeFactory.cpp</in>
+                <in>UnicodeRangeFactory.hpp</in>
+                <in>UnionToken.cpp</in>
+                <in>UnionToken.hpp</in>
+                <in>XMLRangeFactory.cpp</in>
+                <in>XMLRangeFactory.hpp</in>
+                <in>XMLUniCharacter.cpp</in>
+                <in>XMLUniCharacter.hpp</in>
+              </df>
+              <df name="Transcoders">
+                <df name="Iconv">
+                  <df name=".deps">
+                  </df>
+                  <in>IconvTransService.cpp</in>
+                  <in>IconvTransService.hpp</in>
+                </df>
+                <df name="IconvGNU">
+                  <df name=".deps">
+                  </df>
+                  <in>IconvGNUTransService.cpp</in>
+                  <in>IconvGNUTransService.hpp</in>
+                </df>
+                <df name="ICU">
+                  <df name=".deps">
+                  </df>
+                  <in>ICUTransService.cpp</in>
+                  <in>ICUTransService.hpp</in>
+                </df>
+                <df name="MacOSUnicodeConverter">
+                  <df name=".deps">
+                  </df>
+                  <df name=".libs">
+                  </df>
+                  <in>MacOSUnicodeConverter.cpp</in>
+                  <in>MacOSUnicodeConverter.hpp</in>
+                </df>
+                <df name="Win32">
+                  <df name=".deps">
+                  </df>
+                  <in>Win32TransService.cpp</in>
+                  <in>Win32TransService.hpp</in>
+                </df>
+              </df>
+              <in>ArrayIndexOutOfBoundsException.hpp</in>
+              <in>Base64.cpp</in>
+              <in>Base64.hpp</in>
+              <in>BaseRefVectorOf.c</in>
+              <in>BaseRefVectorOf.hpp</in>
+              <in>BinFileInputStream.cpp</in>
+              <in>BinFileInputStream.hpp</in>
+              <in>BinInputStream.cpp</in>
+              <in>BinInputStream.hpp</in>
+              <in>BinMemInputStream.cpp</in>
+              <in>BinMemInputStream.hpp</in>
+              <in>BitOps.hpp</in>
+              <in>BitSet.cpp</in>
+              <in>BitSet.hpp</in>
+              <in>CountedPointer.c</in>
+              <in>CountedPointer.hpp</in>
+              <in>DefaultPanicHandler.cpp</in>
+              <in>DefaultPanicHandler.hpp</in>
+              <in>EmptyStackException.hpp</in>
+              <in>EncodingValidator.cpp</in>
+              <in>EncodingValidator.hpp</in>
+              <in>FlagJanitor.c</in>
+              <in>FlagJanitor.hpp</in>
+              <in>Hash2KeysSetOf.c</in>
+              <in>Hash2KeysSetOf.hpp</in>
+              <in>Hashers.hpp</in>
+              <in>HeaderDummy.cpp</in>
+              <in>HexBin.cpp</in>
+              <in>HexBin.hpp</in>
+              <in>IOException.hpp</in>
+              <in>IllegalArgumentException.hpp</in>
+              <in>InvalidCastException.hpp</in>
+              <in>Janitor.c</in>
+              <in>Janitor.hpp</in>
+              <in>KVStringPair.cpp</in>
+              <in>KVStringPair.hpp</in>
+              <in>KeyRefPair.c</in>
+              <in>KeyRefPair.hpp</in>
+              <in>KeyValuePair.c</in>
+              <in>KeyValuePair.hpp</in>
+              <in>LogicalPath.c</in>
+              <in>Mutexes.cpp</in>
+              <in>Mutexes.hpp</in>
+              <in>NameIdPool.c</in>
+              <in>NameIdPool.hpp</in>
+              <in>NoSuchElementException.hpp</in>
+              <in>NullPointerException.hpp</in>
+              <in>NumberFormatException.hpp</in>
+              <in>OutOfMemoryException.hpp</in>
+              <in>PSVIUni.cpp</in>
+              <in>PSVIUni.hpp</in>
+              <in>PanicHandler.cpp</in>
+              <in>PanicHandler.hpp</in>
+              <in>ParseException.hpp</in>
+              <in>PlatformUtils.cpp</in>
+              <in>PlatformUtils.hpp</in>
+              <in>QName.cpp</in>
+              <in>QName.hpp</in>
+              <in>RefArrayOf.c</in>
+              <in>RefArrayOf.hpp</in>
+              <in>RefArrayVectorOf.c</in>
+              <in>RefArrayVectorOf.hpp</in>
+              <in>RefHash2KeysTableOf.c</in>
+              <in>RefHash2KeysTableOf.hpp</in>
+              <in>RefHash3KeysIdPool.c</in>
+              <in>RefHash3KeysIdPool.hpp</in>
+              <in>RefHashTableOf.c</in>
+              <in>RefHashTableOf.hpp</in>
+              <in>RefStackOf.c</in>
+              <in>RefStackOf.hpp</in>
+              <in>RefVectorOf.c</in>
+              <in>RefVectorOf.hpp</in>
+              <in>RuntimeException.hpp</in>
+              <in>SchemaDateTimeException.hpp</in>
+              <in>SecurityManager.hpp</in>
+              <in>StringPool.cpp</in>
+              <in>StringPool.hpp</in>
+              <in>SynchronizedStringPool.cpp</in>
+              <in>SynchronizedStringPool.hpp</in>
+              <in>TransENameMap.c</in>
+              <in>TransENameMap.hpp</in>
+              <in>TransService.cpp</in>
+              <in>TransService.hpp</in>
+              <in>TranscodingException.hpp</in>
+              <in>UTFDataFormatException.hpp</in>
+              <in>UnexpectedEOFException.hpp</in>
+              <in>UnsupportedEncodingException.hpp</in>
+              <in>ValueArrayOf.c</in>
+              <in>ValueArrayOf.hpp</in>
+              <in>ValueHashTableOf.c</in>
+              <in>ValueHashTableOf.hpp</in>
+              <in>ValueStackOf.c</in>
+              <in>ValueStackOf.hpp</in>
+              <in>ValueVectorOf.c</in>
+              <in>ValueVectorOf.hpp</in>
+              <in>XML256TableTranscoder.cpp</in>
+              <in>XML256TableTranscoder.hpp</in>
+              <in>XML88591Transcoder.cpp</in>
+              <in>XML88591Transcoder.hpp</in>
+              <in>XMLASCIITranscoder.cpp</in>
+              <in>XMLASCIITranscoder.hpp</in>
+              <in>XMLAbstractDoubleFloat.cpp</in>
+              <in>XMLAbstractDoubleFloat.hpp</in>
+              <in>XMLBigDecimal.cpp</in>
+              <in>XMLBigDecimal.hpp</in>
+              <in>XMLBigInteger.cpp</in>
+              <in>XMLBigInteger.hpp</in>
+              <in>XMLChTranscoder.cpp</in>
+              <in>XMLChTranscoder.hpp</in>
+              <in>XMLChar.cpp</in>
+              <in>XMLChar.hpp</in>
+              <in>XMLDOMMsg.hpp</in>
+              <in>XMLDateTime.cpp</in>
+              <in>XMLDateTime.hpp</in>
+              <in>XMLDouble.cpp</in>
+              <in>XMLDouble.hpp</in>
+              <in>XMLEBCDICTranscoder.cpp</in>
+              <in>XMLEBCDICTranscoder.hpp</in>
+              <in>XMLEntityResolver.hpp</in>
+              <in>XMLEnumerator.hpp</in>
+              <in>XMLExceptMsgs.hpp</in>
+              <in>XMLException.cpp</in>
+              <in>XMLException.hpp</in>
+              <in>XMLFileMgr.hpp</in>
+              <in>XMLFloat.cpp</in>
+              <in>XMLFloat.hpp</in>
+              <in>XMLIBM1047Transcoder.cpp</in>
+              <in>XMLIBM1047Transcoder.hpp</in>
+              <in>XMLIBM1140Transcoder.cpp</in>
+              <in>XMLIBM1140Transcoder.hpp</in>
+              <in>XMLInitializer.cpp</in>
+              <in>XMLInitializer.hpp</in>
+              <in>XMLInteger.hpp</in>
+              <in>XMLMsgLoader.cpp</in>
+              <in>XMLMsgLoader.hpp</in>
+              <in>XMLMutexMgr.hpp</in>
+              <in>XMLNetAccessor.hpp</in>
+              <in>XMLNumber.cpp</in>
+              <in>XMLNumber.hpp</in>
+              <in>XMLResourceIdentifier.hpp</in>
+              <in>XMLString.cpp</in>
+              <in>XMLString.hpp</in>
+              <in>XMLStringTokenizer.cpp</in>
+              <in>XMLStringTokenizer.hpp</in>
+              <in>XMLUCS4Transcoder.cpp</in>
+              <in>XMLUCS4Transcoder.hpp</in>
+              <in>XMLURL.cpp</in>
+              <in>XMLURL.hpp</in>
+              <in>XMLUTF16Transcoder.cpp</in>
+              <in>XMLUTF16Transcoder.hpp</in>
+              <in>XMLUTF8Transcoder.cpp</in>
+              <in>XMLUTF8Transcoder.hpp</in>
+              <in>XMLUni.cpp</in>
+              <in>XMLUni.hpp</in>
+              <in>XMLUniDefs.hpp</in>
+              <in>XMLUri.cpp</in>
+              <in>XMLUri.hpp</in>
+              <in>XMLWin1252Transcoder.cpp</in>
+              <in>XMLWin1252Transcoder.hpp</in>
+              <in>XMemory.cpp</in>
+              <in>XMemory.hpp</in>
+              <in>XercesDefs.hpp</in>
+              <in>XercesVersion.hpp</in>
+              <in>Xerces_autoconf_config.borland.hpp</in>
+              <in>Xerces_autoconf_config.hpp</in>
+              <in>Xerces_autoconf_config.msvc.hpp</in>
+            </df>
+            <df name="validators">
+              <df name="common">
+                <df name=".deps">
+                </df>
+                <df name=".libs">
+                </df>
+                <in>AllContentModel.cpp</in>
+                <in>AllContentModel.hpp</in>
+                <in>CMAny.cpp</in>
+                <in>CMAny.hpp</in>
+                <in>CMBinaryOp.cpp</in>
+                <in>CMBinaryOp.hpp</in>
+                <in>CMLeaf.hpp</in>
+                <in>CMNode.hpp</in>
+                <in>CMRepeatingLeaf.hpp</in>
+                <in>CMStateSet.hpp</in>
+                <in>CMUnaryOp.cpp</in>
+                <in>CMUnaryOp.hpp</in>
+                <in>ContentLeafNameTypeVector.cpp</in>
+                <in>ContentLeafNameTypeVector.hpp</in>
+                <in>ContentSpecNode.cpp</in>
+                <in>ContentSpecNode.hpp</in>
+                <in>DFAContentModel.cpp</in>
+                <in>DFAContentModel.hpp</in>
+                <in>Grammar.cpp</in>
+                <in>Grammar.hpp</in>
+                <in>GrammarResolver.cpp</in>
+                <in>GrammarResolver.hpp</in>
+                <in>MixedContentModel.cpp</in>
+                <in>MixedContentModel.hpp</in>
+                <in>SimpleContentModel.cpp</in>
+                <in>SimpleContentModel.hpp</in>
+              </df>
+              <df name="datatype">
+                <df name=".deps">
+                </df>
+                <df name=".libs">
+                </df>
+                <in>AbstractNumericFacetValidator.cpp</in>
+                <in>AbstractNumericFacetValidator.hpp</in>
+                <in>AbstractNumericValidator.cpp</in>
+                <in>AbstractNumericValidator.hpp</in>
+                <in>AbstractStringValidator.cpp</in>
+                <in>AbstractStringValidator.hpp</in>
+                <in>AnySimpleTypeDatatypeValidator.cpp</in>
+                <in>AnySimpleTypeDatatypeValidator.hpp</in>
+                <in>AnyURIDatatypeValidator.cpp</in>
+                <in>AnyURIDatatypeValidator.hpp</in>
+                <in>Base64BinaryDatatypeValidator.cpp</in>
+                <in>Base64BinaryDatatypeValidator.hpp</in>
+                <in>BooleanDatatypeValidator.cpp</in>
+                <in>BooleanDatatypeValidator.hpp</in>
+                <in>DatatypeValidator.cpp</in>
+                <in>DatatypeValidator.hpp</in>
+                <in>DatatypeValidatorFactory.cpp</in>
+                <in>DatatypeValidatorFactory.hpp</in>
+                <in>DateDatatypeValidator.cpp</in>
+                <in>DateDatatypeValidator.hpp</in>
+                <in>DateTimeDatatypeValidator.cpp</in>
+                <in>DateTimeDatatypeValidator.hpp</in>
+                <in>DateTimeValidator.cpp</in>
+                <in>DateTimeValidator.hpp</in>
+                <in>DayDatatypeValidator.cpp</in>
+                <in>DayDatatypeValidator.hpp</in>
+                <in>DecimalDatatypeValidator.cpp</in>
+                <in>DecimalDatatypeValidator.hpp</in>
+                <in>DoubleDatatypeValidator.cpp</in>
+                <in>DoubleDatatypeValidator.hpp</in>
+                <in>DurationDatatypeValidator.cpp</in>
+                <in>DurationDatatypeValidator.hpp</in>
+                <in>ENTITYDatatypeValidator.cpp</in>
+                <in>ENTITYDatatypeValidator.hpp</in>
+                <in>FloatDatatypeValidator.cpp</in>
+                <in>FloatDatatypeValidator.hpp</in>
+                <in>HexBinaryDatatypeValidator.cpp</in>
+                <in>HexBinaryDatatypeValidator.hpp</in>
+                <in>IDDatatypeValidator.cpp</in>
+                <in>IDDatatypeValidator.hpp</in>
+                <in>IDREFDatatypeValidator.cpp</in>
+                <in>IDREFDatatypeValidator.hpp</in>
+                <in>InvalidDatatypeFacetException.hpp</in>
+                <in>InvalidDatatypeValueException.hpp</in>
+                <in>ListDatatypeValidator.cpp</in>
+                <in>ListDatatypeValidator.hpp</in>
+                <in>MonthDatatypeValidator.cpp</in>
+                <in>MonthDatatypeValidator.hpp</in>
+                <in>MonthDayDatatypeValidator.cpp</in>
+                <in>MonthDayDatatypeValidator.hpp</in>
+                <in>NCNameDatatypeValidator.cpp</in>
+                <in>NCNameDatatypeValidator.hpp</in>
+                <in>NOTATIONDatatypeValidator.cpp</in>
+                <in>NOTATIONDatatypeValidator.hpp</in>
+                <in>NameDatatypeValidator.cpp</in>
+                <in>NameDatatypeValidator.hpp</in>
+                <in>QNameDatatypeValidator.cpp</in>
+                <in>QNameDatatypeValidator.hpp</in>
+                <in>StringDatatypeValidator.cpp</in>
+                <in>StringDatatypeValidator.hpp</in>
+                <in>TimeDatatypeValidator.cpp</in>
+                <in>TimeDatatypeValidator.hpp</in>
+                <in>UnionDatatypeValidator.cpp</in>
+                <in>UnionDatatypeValidator.hpp</in>
+                <in>XMLCanRepGroup.cpp</in>
+                <in>XMLCanRepGroup.hpp</in>
+                <in>YearDatatypeValidator.cpp</in>
+                <in>YearDatatypeValidator.hpp</in>
+                <in>YearMonthDatatypeValidator.cpp</in>
+                <in>YearMonthDatatypeValidator.hpp</in>
+              </df>
+              <df name="DTD">
+                <df name=".deps">
+                </df>
+                <df name=".libs">
+                </df>
+                <in>DTDAttDef.cpp</in>
+                <in>DTDAttDef.hpp</in>
+                <in>DTDAttDefList.cpp</in>
+                <in>DTDAttDefList.hpp</in>
+                <in>DTDElementDecl.cpp</in>
+                <in>DTDElementDecl.hpp</in>
+                <in>DTDEntityDecl.cpp</in>
+                <in>DTDEntityDecl.hpp</in>
+                <in>DTDGrammar.cpp</in>
+                <in>DTDGrammar.hpp</in>
+                <in>DTDScanner.cpp</in>
+                <in>DTDScanner.hpp</in>
+                <in>DTDValidator.cpp</in>
+                <in>DTDValidator.hpp</in>
+                <in>DocTypeHandler.hpp</in>
+                <in>XMLDTDDescriptionImpl.cpp</in>
+                <in>XMLDTDDescriptionImpl.hpp</in>
+              </df>
+              <df name="schema">
+                <df name=".deps">
+                </df>
+                <df name=".libs">
+                </df>
+                <df name="identity">
+                  <df name=".deps">
+                  </df>
+                  <df name=".libs">
+                  </df>
+                  <in>FieldActivator.cpp</in>
+                  <in>FieldActivator.hpp</in>
+                  <in>FieldValueMap.cpp</in>
+                  <in>FieldValueMap.hpp</in>
+                  <in>IC_Field.cpp</in>
+                  <in>IC_Field.hpp</in>
+                  <in>IC_Key.cpp</in>
+                  <in>IC_Key.hpp</in>
+                  <in>IC_KeyRef.cpp</in>
+                  <in>IC_KeyRef.hpp</in>
+                  <in>IC_Selector.cpp</in>
+                  <in>IC_Selector.hpp</in>
+                  <in>IC_Unique.cpp</in>
+                  <in>IC_Unique.hpp</in>
+                  <in>IdentityConstraint.cpp</in>
+                  <in>IdentityConstraint.hpp</in>
+                  <in>IdentityConstraintHandler.cpp</in>
+                  <in>IdentityConstraintHandler.hpp</in>
+                  <in>ValueStore.cpp</in>
+                  <in>ValueStore.hpp</in>
+                  <in>ValueStoreCache.cpp</in>
+                  <in>ValueStoreCache.hpp</in>
+                  <in>XPathException.hpp</in>
+                  <in>XPathMatcher.cpp</in>
+                  <in>XPathMatcher.hpp</in>
+                  <in>XPathMatcherStack.cpp</in>
+                  <in>XPathMatcherStack.hpp</in>
+                  <in>XPathSymbols.cpp</in>
+                  <in>XPathSymbols.hpp</in>
+                  <in>XercesXPath.cpp</in>
+                  <in>XercesXPath.hpp</in>
+                </df>
+                <in>ComplexTypeInfo.cpp</in>
+                <in>ComplexTypeInfo.hpp</in>
+                <in>GeneralAttributeCheck.cpp</in>
+                <in>GeneralAttributeCheck.hpp</in>
+                <in>NamespaceScope.cpp</in>
+                <in>NamespaceScope.hpp</in>
+                <in>PSVIDefs.hpp</in>
+                <in>SchemaAttDef.cpp</in>
+                <in>SchemaAttDef.hpp</in>
+                <in>SchemaAttDefList.cpp</in>
+                <in>SchemaAttDefList.hpp</in>
+                <in>SchemaElementDecl.cpp</in>
+                <in>SchemaElementDecl.hpp</in>
+                <in>SchemaGrammar.cpp</in>
+                <in>SchemaGrammar.hpp</in>
+                <in>SchemaInfo.cpp</in>
+                <in>SchemaInfo.hpp</in>
+                <in>SchemaSymbols.cpp</in>
+                <in>SchemaSymbols.hpp</in>
+                <in>SchemaValidator.cpp</in>
+                <in>SchemaValidator.hpp</in>
+                <in>SubstitutionGroupComparator.cpp</in>
+                <in>SubstitutionGroupComparator.hpp</in>
+                <in>TraverseSchema.cpp</in>
+                <in>TraverseSchema.hpp</in>
+                <in>XMLSchemaDescriptionImpl.cpp</in>
+                <in>XMLSchemaDescriptionImpl.hpp</in>
+                <in>XSDDOMParser.cpp</in>
+                <in>XSDDOMParser.hpp</in>
+                <in>XSDErrorReporter.cpp</in>
+                <in>XSDErrorReporter.hpp</in>
+                <in>XSDLocator.cpp</in>
+                <in>XSDLocator.hpp</in>
+                <in>XUtil.cpp</in>
+                <in>XUtil.hpp</in>
+                <in>XercesAttGroupInfo.cpp</in>
+                <in>XercesAttGroupInfo.hpp</in>
+                <in>XercesElementWildcard.cpp</in>
+                <in>XercesElementWildcard.hpp</in>
+                <in>XercesGroupInfo.cpp</in>
+                <in>XercesGroupInfo.hpp</in>
+              </df>
+            </df>
+            <df name="xinclude">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <in>XIncludeDOMDocumentProcessor.cpp</in>
+              <in>XIncludeDOMDocumentProcessor.hpp</in>
+              <in>XIncludeLocation.cpp</in>
+              <in>XIncludeLocation.hpp</in>
+              <in>XIncludeUtils.cpp</in>
+              <in>XIncludeUtils.hpp</in>
+            </df>
+          </df>
+          <df name="xmlparser">
+            <df name="cli">
+              <in>drampower.cc</in>
+            </df>
+            <df name="libdrampower">
+              <in>LibDRAMPower.cc</in>
+              <in>LibDRAMPower.h</in>
+            </df>
+            <in>MemSpecParser.cc</in>
+            <in>MemSpecParser.h</in>
+            <in>XMLHandler.cc</in>
+            <in>XMLHandler.h</in>
+            <in>XMLParser.cc</in>
+            <in>XMLParser.h</in>
+          </df>
+          <in>CmdScheduler.cc</in>
+          <in>CmdScheduler.h</in>
+          <in>CommandAnalysis.cc</in>
+          <in>CommandAnalysis.h</in>
+          <in>LibDRAMPower.cc</in>
+          <in>LibDRAMPower.h</in>
+          <in>MemArchitectureSpec.cc</in>
+          <in>MemArchitectureSpec.h</in>
+          <in>MemCommand.cc</in>
+          <in>MemCommand.h</in>
+          <in>MemPowerSpec.cc</in>
+          <in>MemPowerSpec.h</in>
+          <in>MemTimingSpec.cc</in>
+          <in>MemTimingSpec.h</in>
+          <in>MemoryPowerModel.cc</in>
+          <in>MemoryPowerModel.h</in>
+          <in>MemorySpecification.cc</in>
+          <in>MemorySpecification.h</in>
+          <in>Parameter.cc</in>
+          <in>Parameter.h</in>
+          <in>Parametrisable.cc</in>
+          <in>Parametrisable.h</in>
+          <in>TraceParser.cc</in>
+          <in>TraceParser.h</in>
+          <in>Utils.h</in>
+        </df>
+        <df name="xercesc">
+          <df name="dom">
+            <df name=".deps">
+            </df>
+            <df name=".libs">
+            </df>
+            <df name="impl">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <in>DOMAttrImpl.cpp</in>
+              <in>DOMAttrImpl.hpp</in>
+              <in>DOMAttrMapImpl.cpp</in>
+              <in>DOMAttrMapImpl.hpp</in>
+              <in>DOMAttrNSImpl.cpp</in>
+              <in>DOMAttrNSImpl.hpp</in>
+              <in>DOMCDATASectionImpl.cpp</in>
+              <in>DOMCDATASectionImpl.hpp</in>
+              <in>DOMCasts.hpp</in>
+              <in>DOMCharacterDataImpl.cpp</in>
+              <in>DOMCharacterDataImpl.hpp</in>
+              <in>DOMChildNode.cpp</in>
+              <in>DOMChildNode.hpp</in>
+              <in>DOMCommentImpl.cpp</in>
+              <in>DOMCommentImpl.hpp</in>
+              <in>DOMConfigurationImpl.cpp</in>
+              <in>DOMConfigurationImpl.hpp</in>
+              <in>DOMDeepNodeListImpl.cpp</in>
+              <in>DOMDeepNodeListImpl.hpp</in>
+              <in>DOMDeepNodeListPool.c</in>
+              <in>DOMDeepNodeListPool.hpp</in>
+              <in>DOMDocumentFragmentImpl.cpp</in>
+              <in>DOMDocumentFragmentImpl.hpp</in>
+              <in>DOMDocumentImpl.cpp</in>
+              <in>DOMDocumentImpl.hpp</in>
+              <in>DOMDocumentTypeImpl.cpp</in>
+              <in>DOMDocumentTypeImpl.hpp</in>
+              <in>DOMElementImpl.cpp</in>
+              <in>DOMElementImpl.hpp</in>
+              <in>DOMElementNSImpl.cpp</in>
+              <in>DOMElementNSImpl.hpp</in>
+              <in>DOMEntityImpl.cpp</in>
+              <in>DOMEntityImpl.hpp</in>
+              <in>DOMEntityReferenceImpl.cpp</in>
+              <in>DOMEntityReferenceImpl.hpp</in>
+              <in>DOMErrorImpl.cpp</in>
+              <in>DOMErrorImpl.hpp</in>
+              <in>DOMImplementationImpl.cpp</in>
+              <in>DOMImplementationImpl.hpp</in>
+              <in>DOMImplementationListImpl.cpp</in>
+              <in>DOMImplementationListImpl.hpp</in>
+              <in>DOMImplementationRegistry.cpp</in>
+              <in>DOMLSInputImpl.cpp</in>
+              <in>DOMLSInputImpl.hpp</in>
+              <in>DOMLSOutputImpl.cpp</in>
+              <in>DOMLSOutputImpl.hpp</in>
+              <in>DOMLSSerializerImpl.cpp</in>
+              <in>DOMLSSerializerImpl.hpp</in>
+              <in>DOMLocatorImpl.cpp</in>
+              <in>DOMLocatorImpl.hpp</in>
+              <in>DOMNamedNodeMapImpl.cpp</in>
+              <in>DOMNamedNodeMapImpl.hpp</in>
+              <in>DOMNodeIDMap.cpp</in>
+              <in>DOMNodeIDMap.hpp</in>
+              <in>DOMNodeImpl.cpp</in>
+              <in>DOMNodeImpl.hpp</in>
+              <in>DOMNodeIteratorImpl.cpp</in>
+              <in>DOMNodeIteratorImpl.hpp</in>
+              <in>DOMNodeListImpl.cpp</in>
+              <in>DOMNodeListImpl.hpp</in>
+              <in>DOMNodeVector.cpp</in>
+              <in>DOMNodeVector.hpp</in>
+              <in>DOMNormalizer.cpp</in>
+              <in>DOMNormalizer.hpp</in>
+              <in>DOMNotationImpl.cpp</in>
+              <in>DOMNotationImpl.hpp</in>
+              <in>DOMParentNode.cpp</in>
+              <in>DOMParentNode.hpp</in>
+              <in>DOMProcessingInstructionImpl.cpp</in>
+              <in>DOMProcessingInstructionImpl.hpp</in>
+              <in>DOMRangeImpl.cpp</in>
+              <in>DOMRangeImpl.hpp</in>
+              <in>DOMStringListImpl.cpp</in>
+              <in>DOMStringListImpl.hpp</in>
+              <in>DOMStringPool.cpp</in>
+              <in>DOMStringPool.hpp</in>
+              <in>DOMTextImpl.cpp</in>
+              <in>DOMTextImpl.hpp</in>
+              <in>DOMTreeWalkerImpl.cpp</in>
+              <in>DOMTreeWalkerImpl.hpp</in>
+              <in>DOMTypeInfoImpl.cpp</in>
+              <in>DOMTypeInfoImpl.hpp</in>
+              <in>DOMXPathExpressionImpl.cpp</in>
+              <in>DOMXPathExpressionImpl.hpp</in>
+              <in>DOMXPathNSResolverImpl.cpp</in>
+              <in>DOMXPathNSResolverImpl.hpp</in>
+              <in>DOMXPathResultImpl.cpp</in>
+              <in>DOMXPathResultImpl.hpp</in>
+              <in>XSDElementNSImpl.cpp</in>
+              <in>XSDElementNSImpl.hpp</in>
+            </df>
+            <in>DOM.hpp</in>
+            <in>DOMAttr.hpp</in>
+            <in>DOMCDATASection.hpp</in>
+            <in>DOMCharacterData.hpp</in>
+            <in>DOMComment.hpp</in>
+            <in>DOMConfiguration.hpp</in>
+            <in>DOMDocument.hpp</in>
+            <in>DOMDocumentFragment.hpp</in>
+            <in>DOMDocumentRange.hpp</in>
+            <in>DOMDocumentTraversal.hpp</in>
+            <in>DOMDocumentType.hpp</in>
+            <in>DOMElement.hpp</in>
+            <in>DOMEntity.hpp</in>
+            <in>DOMEntityReference.hpp</in>
+            <in>DOMError.hpp</in>
+            <in>DOMErrorHandler.hpp</in>
+            <in>DOMException.cpp</in>
+            <in>DOMException.hpp</in>
+            <in>DOMImplementation.hpp</in>
+            <in>DOMImplementationLS.hpp</in>
+            <in>DOMImplementationList.hpp</in>
+            <in>DOMImplementationRegistry.hpp</in>
+            <in>DOMImplementationSource.hpp</in>
+            <in>DOMLSException.cpp</in>
+            <in>DOMLSException.hpp</in>
+            <in>DOMLSInput.hpp</in>
+            <in>DOMLSOutput.hpp</in>
+            <in>DOMLSParser.hpp</in>
+            <in>DOMLSParserFilter.hpp</in>
+            <in>DOMLSResourceResolver.hpp</in>
+            <in>DOMLSSerializer.hpp</in>
+            <in>DOMLSSerializerFilter.hpp</in>
+            <in>DOMLocator.hpp</in>
+            <in>DOMMemoryManager.hpp</in>
+            <in>DOMNamedNodeMap.hpp</in>
+            <in>DOMNode.hpp</in>
+            <in>DOMNodeFilter.hpp</in>
+            <in>DOMNodeIterator.hpp</in>
+            <in>DOMNodeList.hpp</in>
+            <in>DOMNotation.hpp</in>
+            <in>DOMPSVITypeInfo.hpp</in>
+            <in>DOMProcessingInstruction.hpp</in>
+            <in>DOMRange.hpp</in>
+            <in>DOMRangeException.cpp</in>
+            <in>DOMRangeException.hpp</in>
+            <in>DOMStringList.hpp</in>
+            <in>DOMText.hpp</in>
+            <in>DOMTreeWalker.hpp</in>
+            <in>DOMTypeInfo.hpp</in>
+            <in>DOMUserDataHandler.hpp</in>
+            <in>DOMXPathEvaluator.hpp</in>
+            <in>DOMXPathException.cpp</in>
+            <in>DOMXPathException.hpp</in>
+            <in>DOMXPathExpression.hpp</in>
+            <in>DOMXPathNSResolver.hpp</in>
+            <in>DOMXPathNamespace.hpp</in>
+            <in>DOMXPathResult.hpp</in>
+            <in>StDOMNode.hpp</in>
+          </df>
+          <df name="framework">
+            <df name=".deps">
+            </df>
+            <df name=".libs">
+            </df>
+            <df name="psvi">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <in>PSVIAttribute.cpp</in>
+              <in>PSVIAttribute.hpp</in>
+              <in>PSVIAttributeList.cpp</in>
+              <in>PSVIAttributeList.hpp</in>
+              <in>PSVIElement.cpp</in>
+              <in>PSVIElement.hpp</in>
+              <in>PSVIHandler.hpp</in>
+              <in>PSVIItem.cpp</in>
+              <in>PSVIItem.hpp</in>
+              <in>XSAnnotation.cpp</in>
+              <in>XSAnnotation.hpp</in>
+              <in>XSAttributeDeclaration.cpp</in>
+              <in>XSAttributeDeclaration.hpp</in>
+              <in>XSAttributeGroupDefinition.cpp</in>
+              <in>XSAttributeGroupDefinition.hpp</in>
+              <in>XSAttributeUse.cpp</in>
+              <in>XSAttributeUse.hpp</in>
+              <in>XSComplexTypeDefinition.cpp</in>
+              <in>XSComplexTypeDefinition.hpp</in>
+              <in>XSConstants.hpp</in>
+              <in>XSElementDeclaration.cpp</in>
+              <in>XSElementDeclaration.hpp</in>
+              <in>XSFacet.cpp</in>
+              <in>XSFacet.hpp</in>
+              <in>XSIDCDefinition.cpp</in>
+              <in>XSIDCDefinition.hpp</in>
+              <in>XSModel.cpp</in>
+              <in>XSModel.hpp</in>
+              <in>XSModelGroup.cpp</in>
+              <in>XSModelGroup.hpp</in>
+              <in>XSModelGroupDefinition.cpp</in>
+              <in>XSModelGroupDefinition.hpp</in>
+              <in>XSMultiValueFacet.cpp</in>
+              <in>XSMultiValueFacet.hpp</in>
+              <in>XSNamedMap.c</in>
+              <in>XSNamedMap.hpp</in>
+              <in>XSNamespaceItem.cpp</in>
+              <in>XSNamespaceItem.hpp</in>
+              <in>XSNotationDeclaration.cpp</in>
+              <in>XSNotationDeclaration.hpp</in>
+              <in>XSObject.cpp</in>
+              <in>XSObject.hpp</in>
+              <in>XSParticle.cpp</in>
+              <in>XSParticle.hpp</in>
+              <in>XSSimpleTypeDefinition.cpp</in>
+              <in>XSSimpleTypeDefinition.hpp</in>
+              <in>XSTypeDefinition.cpp</in>
+              <in>XSTypeDefinition.hpp</in>
+              <in>XSValue.cpp</in>
+              <in>XSValue.hpp</in>
+              <in>XSWildcard.cpp</in>
+              <in>XSWildcard.hpp</in>
+            </df>
+            <in>BinOutputStream.cpp</in>
+            <in>BinOutputStream.hpp</in>
+            <in>LocalFileFormatTarget.cpp</in>
+            <in>LocalFileFormatTarget.hpp</in>
+            <in>LocalFileInputSource.cpp</in>
+            <in>LocalFileInputSource.hpp</in>
+            <in>MemBufFormatTarget.cpp</in>
+            <in>MemBufFormatTarget.hpp</in>
+            <in>MemBufInputSource.cpp</in>
+            <in>MemBufInputSource.hpp</in>
+            <in>MemoryManager.hpp</in>
+            <in>StdInInputSource.cpp</in>
+            <in>StdInInputSource.hpp</in>
+            <in>StdOutFormatTarget.cpp</in>
+            <in>StdOutFormatTarget.hpp</in>
+            <in>URLInputSource.cpp</in>
+            <in>URLInputSource.hpp</in>
+            <in>ValidationContext.hpp</in>
+            <in>Wrapper4DOMLSInput.cpp</in>
+            <in>Wrapper4DOMLSInput.hpp</in>
+            <in>Wrapper4InputSource.cpp</in>
+            <in>Wrapper4InputSource.hpp</in>
+            <in>XMLAttDef.cpp</in>
+            <in>XMLAttDef.hpp</in>
+            <in>XMLAttDefList.cpp</in>
+            <in>XMLAttDefList.hpp</in>
+            <in>XMLAttr.cpp</in>
+            <in>XMLAttr.hpp</in>
+            <in>XMLBuffer.cpp</in>
+            <in>XMLBuffer.hpp</in>
+            <in>XMLBufferMgr.cpp</in>
+            <in>XMLBufferMgr.hpp</in>
+            <in>XMLContentModel.cpp</in>
+            <in>XMLContentModel.hpp</in>
+            <in>XMLDTDDescription.cpp</in>
+            <in>XMLDTDDescription.hpp</in>
+            <in>XMLDocumentHandler.hpp</in>
+            <in>XMLElementDecl.cpp</in>
+            <in>XMLElementDecl.hpp</in>
+            <in>XMLEntityDecl.cpp</in>
+            <in>XMLEntityDecl.hpp</in>
+            <in>XMLEntityHandler.hpp</in>
+            <in>XMLErrorCodes.hpp</in>
+            <in>XMLErrorReporter.hpp</in>
+            <in>XMLFormatter.cpp</in>
+            <in>XMLFormatter.hpp</in>
+            <in>XMLGrammarDescription.cpp</in>
+            <in>XMLGrammarDescription.hpp</in>
+            <in>XMLGrammarPool.hpp</in>
+            <in>XMLGrammarPoolImpl.cpp</in>
+            <in>XMLGrammarPoolImpl.hpp</in>
+            <in>XMLNotationDecl.cpp</in>
+            <in>XMLNotationDecl.hpp</in>
+            <in>XMLPScanToken.hpp</in>
+            <in>XMLRecognizer.cpp</in>
+            <in>XMLRecognizer.hpp</in>
+            <in>XMLRefInfo.cpp</in>
+            <in>XMLRefInfo.hpp</in>
+            <in>XMLSchemaDescription.cpp</in>
+            <in>XMLSchemaDescription.hpp</in>
+            <in>XMLValidator.cpp</in>
+            <in>XMLValidator.hpp</in>
+            <in>XMLValidityCodes.hpp</in>
+          </df>
+          <df name="internal">
+            <df name=".deps">
+            </df>
+            <df name=".libs">
+            </df>
+            <in>BinFileOutputStream.cpp</in>
+            <in>BinFileOutputStream.hpp</in>
+            <in>BinMemOutputStream.cpp</in>
+            <in>BinMemOutputStream.hpp</in>
+            <in>CharTypeTables.hpp</in>
+            <in>DGXMLScanner.cpp</in>
+            <in>DGXMLScanner.hpp</in>
+            <in>ElemStack.cpp</in>
+            <in>ElemStack.hpp</in>
+            <in>EndOfEntityException.hpp</in>
+            <in>IANAEncodings.hpp</in>
+            <in>IGXMLScanner.cpp</in>
+            <in>IGXMLScanner.hpp</in>
+            <in>IGXMLScanner2.cpp</in>
+            <in>MemoryManagerImpl.cpp</in>
+            <in>MemoryManagerImpl.hpp</in>
+            <in>ReaderMgr.cpp</in>
+            <in>ReaderMgr.hpp</in>
+            <in>SGXMLScanner.cpp</in>
+            <in>SGXMLScanner.hpp</in>
+            <in>ValidationContextImpl.cpp</in>
+            <in>ValidationContextImpl.hpp</in>
+            <in>VecAttrListImpl.cpp</in>
+            <in>VecAttrListImpl.hpp</in>
+            <in>VecAttributesImpl.cpp</in>
+            <in>VecAttributesImpl.hpp</in>
+            <in>WFXMLScanner.cpp</in>
+            <in>WFXMLScanner.hpp</in>
+            <in>XMLInternalErrorHandler.hpp</in>
+            <in>XMLReader.cpp</in>
+            <in>XMLReader.hpp</in>
+            <in>XMLScanner.cpp</in>
+            <in>XMLScanner.hpp</in>
+            <in>XMLScannerResolver.cpp</in>
+            <in>XMLScannerResolver.hpp</in>
+            <in>XProtoType.cpp</in>
+            <in>XProtoType.hpp</in>
+            <in>XSAXMLScanner.cpp</in>
+            <in>XSAXMLScanner.hpp</in>
+            <in>XSObjectFactory.cpp</in>
+            <in>XSObjectFactory.hpp</in>
+            <in>XSerializable.hpp</in>
+            <in>XSerializationException.hpp</in>
+            <in>XSerializeEngine.cpp</in>
+            <in>XSerializeEngine.hpp</in>
+            <in>XTemplateSerializer.cpp</in>
+            <in>XTemplateSerializer.hpp</in>
+          </df>
+          <df name="NLS">
+            <df name="EN_US">
+            </df>
+          </df>
+          <df name="parsers">
+            <df name=".deps">
+            </df>
+            <df name=".libs">
+            </df>
+            <in>AbstractDOMParser.cpp</in>
+            <in>AbstractDOMParser.hpp</in>
+            <in>DOMLSParserImpl.cpp</in>
+            <in>DOMLSParserImpl.hpp</in>
+            <in>SAX2XMLFilterImpl.cpp</in>
+            <in>SAX2XMLFilterImpl.hpp</in>
+            <in>SAX2XMLReaderImpl.cpp</in>
+            <in>SAX2XMLReaderImpl.hpp</in>
+            <in>SAXParser.cpp</in>
+            <in>SAXParser.hpp</in>
+            <in>XercesDOMParser.cpp</in>
+            <in>XercesDOMParser.hpp</in>
+          </df>
+          <df name="sax">
+            <df name=".deps">
+            </df>
+            <df name=".libs">
+            </df>
+            <in>AttributeList.hpp</in>
+            <in>DTDHandler.hpp</in>
+            <in>DocumentHandler.hpp</in>
+            <in>Dummy.cpp</in>
+            <in>EntityResolver.hpp</in>
+            <in>ErrorHandler.hpp</in>
+            <in>HandlerBase.hpp</in>
+            <in>InputSource.cpp</in>
+            <in>InputSource.hpp</in>
+            <in>Locator.hpp</in>
+            <in>Parser.hpp</in>
+            <in>SAXException.cpp</in>
+            <in>SAXException.hpp</in>
+            <in>SAXParseException.cpp</in>
+            <in>SAXParseException.hpp</in>
+          </df>
+          <df name="sax2">
+            <df name=".deps">
+            </df>
+            <df name=".libs">
+            </df>
+            <in>Attributes.hpp</in>
+            <in>ContentHandler.hpp</in>
+            <in>DeclHandler.hpp</in>
+            <in>DefaultHandler.hpp</in>
+            <in>LexicalHandler.hpp</in>
+            <in>SAX2XMLFilter.hpp</in>
+            <in>SAX2XMLReader.hpp</in>
+            <in>XMLReaderFactory.hpp</in>
+            <in>sax2Dummy.cpp</in>
+          </df>
+          <df name="util">
+            <df name=".deps">
+            </df>
+            <df name=".libs">
+            </df>
+            <df name="FileManagers">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <in>PosixFileMgr.cpp</in>
+              <in>PosixFileMgr.hpp</in>
+              <in>WindowsFileMgr.cpp</in>
+              <in>WindowsFileMgr.hpp</in>
+            </df>
+            <df name="MsgLoaders">
+              <df name="ICU">
+                <df name=".deps">
+                </df>
+                <df name="resources">
+                </df>
+                <in>ICUMsgLoader.cpp</in>
+                <in>ICUMsgLoader.hpp</in>
+              </df>
+              <df name="InMemory">
+                <df name=".deps">
+                </df>
+                <df name=".libs">
+                </df>
+                <in>InMemMsgLoader.cpp</in>
+                <in>InMemMsgLoader.hpp</in>
+                <in>XercesMessages_en_US.hpp</in>
+              </df>
+              <df name="MsgCatalog">
+                <df name=".deps">
+                </df>
+                <in>MsgCatalogLoader.cpp</in>
+                <in>MsgCatalogLoader.hpp</in>
+                <in>XMLMsgCat_Ids.hpp</in>
+              </df>
+              <df name="Win32">
+                <in>Win32MsgLoader.cpp</in>
+                <in>Win32MsgLoader.hpp</in>
+                <in>resource.h</in>
+              </df>
+            </df>
+            <df name="MutexManagers">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <in>NoThreadMutexMgr.cpp</in>
+              <in>NoThreadMutexMgr.hpp</in>
+              <in>PosixMutexMgr.cpp</in>
+              <in>PosixMutexMgr.hpp</in>
+              <in>WindowsMutexMgr.cpp</in>
+              <in>WindowsMutexMgr.hpp</in>
+            </df>
+            <df name="NetAccessors">
+              <df name=".deps">
+              </df>
+              <df name="Curl">
+                <df name=".deps">
+                </df>
+                <df name=".libs">
+                </df>
+                <in>CurlNetAccessor.cpp</in>
+                <in>CurlNetAccessor.hpp</in>
+                <in>CurlURLInputStream.cpp</in>
+                <in>CurlURLInputStream.hpp</in>
+              </df>
+              <df name="MacOSURLAccessCF">
+                <df name=".deps">
+                </df>
+                <in>MacOSURLAccessCF.cpp</in>
+                <in>MacOSURLAccessCF.hpp</in>
+                <in>URLAccessCFBinInputStream.cpp</in>
+                <in>URLAccessCFBinInputStream.hpp</in>
+              </df>
+              <df name="Socket">
+                <df name=".deps">
+                </df>
+                <in>SocketNetAccessor.cpp</in>
+                <in>SocketNetAccessor.hpp</in>
+                <in>UnixHTTPURLInputStream.cpp</in>
+                <in>UnixHTTPURLInputStream.hpp</in>
+              </df>
+              <df name="WinSock">
+                <df name=".deps">
+                </df>
+                <in>BinHTTPURLInputStream.cpp</in>
+                <in>BinHTTPURLInputStream.hpp</in>
+                <in>WinSockNetAccessor.cpp</in>
+                <in>WinSockNetAccessor.hpp</in>
+              </df>
+              <in>BinHTTPInputStreamCommon.cpp</in>
+              <in>BinHTTPInputStreamCommon.hpp</in>
+            </df>
+            <df name="regx">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <in>ASCIIRangeFactory.cpp</in>
+              <in>ASCIIRangeFactory.hpp</in>
+              <in>BMPattern.cpp</in>
+              <in>BMPattern.hpp</in>
+              <in>BlockRangeFactory.cpp</in>
+              <in>BlockRangeFactory.hpp</in>
+              <in>CharToken.cpp</in>
+              <in>CharToken.hpp</in>
+              <in>ClosureToken.cpp</in>
+              <in>ClosureToken.hpp</in>
+              <in>ConcatToken.cpp</in>
+              <in>ConcatToken.hpp</in>
+              <in>Match.cpp</in>
+              <in>Match.hpp</in>
+              <in>Op.cpp</in>
+              <in>Op.hpp</in>
+              <in>OpFactory.cpp</in>
+              <in>OpFactory.hpp</in>
+              <in>ParenToken.cpp</in>
+              <in>ParenToken.hpp</in>
+              <in>ParserForXMLSchema.cpp</in>
+              <in>ParserForXMLSchema.hpp</in>
+              <in>RangeFactory.cpp</in>
+              <in>RangeFactory.hpp</in>
+              <in>RangeToken.cpp</in>
+              <in>RangeToken.hpp</in>
+              <in>RangeTokenMap.cpp</in>
+              <in>RangeTokenMap.hpp</in>
+              <in>RegularExpression.cpp</in>
+              <in>RegularExpression.hpp</in>
+              <in>RegxDefs.hpp</in>
+              <in>RegxParser.cpp</in>
+              <in>RegxParser.hpp</in>
+              <in>RegxUtil.cpp</in>
+              <in>RegxUtil.hpp</in>
+              <in>StringToken.cpp</in>
+              <in>StringToken.hpp</in>
+              <in>Token.cpp</in>
+              <in>Token.hpp</in>
+              <in>TokenFactory.cpp</in>
+              <in>TokenFactory.hpp</in>
+              <in>TokenInc.hpp</in>
+              <in>UniCharTable.hpp</in>
+              <in>UnicodeRangeFactory.cpp</in>
+              <in>UnicodeRangeFactory.hpp</in>
+              <in>UnionToken.cpp</in>
+              <in>UnionToken.hpp</in>
+              <in>XMLRangeFactory.cpp</in>
+              <in>XMLRangeFactory.hpp</in>
+              <in>XMLUniCharacter.cpp</in>
+              <in>XMLUniCharacter.hpp</in>
+            </df>
+            <df name="Transcoders">
+              <df name="Iconv">
+                <df name=".deps">
+                </df>
+                <in>IconvTransService.cpp</in>
+                <in>IconvTransService.hpp</in>
+              </df>
+              <df name="IconvGNU">
+                <df name=".deps">
+                </df>
+                <in>IconvGNUTransService.cpp</in>
+                <in>IconvGNUTransService.hpp</in>
+              </df>
+              <df name="ICU">
+                <df name=".deps">
+                </df>
+                <in>ICUTransService.cpp</in>
+                <in>ICUTransService.hpp</in>
+              </df>
+              <df name="MacOSUnicodeConverter">
+                <df name=".deps">
+                </df>
+                <df name=".libs">
+                </df>
+                <in>MacOSUnicodeConverter.cpp</in>
+                <in>MacOSUnicodeConverter.hpp</in>
+              </df>
+              <df name="Win32">
+                <df name=".deps">
+                </df>
+                <in>Win32TransService.cpp</in>
+                <in>Win32TransService.hpp</in>
+              </df>
+            </df>
+            <in>ArrayIndexOutOfBoundsException.hpp</in>
+            <in>Base64.cpp</in>
+            <in>Base64.hpp</in>
+            <in>BaseRefVectorOf.c</in>
+            <in>BaseRefVectorOf.hpp</in>
+            <in>BinFileInputStream.cpp</in>
+            <in>BinFileInputStream.hpp</in>
+            <in>BinInputStream.cpp</in>
+            <in>BinInputStream.hpp</in>
+            <in>BinMemInputStream.cpp</in>
+            <in>BinMemInputStream.hpp</in>
+            <in>BitOps.hpp</in>
+            <in>BitSet.cpp</in>
+            <in>BitSet.hpp</in>
+            <in>CountedPointer.c</in>
+            <in>CountedPointer.hpp</in>
+            <in>DefaultPanicHandler.cpp</in>
+            <in>DefaultPanicHandler.hpp</in>
+            <in>EmptyStackException.hpp</in>
+            <in>EncodingValidator.cpp</in>
+            <in>EncodingValidator.hpp</in>
+            <in>FlagJanitor.c</in>
+            <in>FlagJanitor.hpp</in>
+            <in>Hash2KeysSetOf.c</in>
+            <in>Hash2KeysSetOf.hpp</in>
+            <in>Hashers.hpp</in>
+            <in>HeaderDummy.cpp</in>
+            <in>HexBin.cpp</in>
+            <in>HexBin.hpp</in>
+            <in>IOException.hpp</in>
+            <in>IllegalArgumentException.hpp</in>
+            <in>InvalidCastException.hpp</in>
+            <in>Janitor.c</in>
+            <in>Janitor.hpp</in>
+            <in>KVStringPair.cpp</in>
+            <in>KVStringPair.hpp</in>
+            <in>KeyRefPair.c</in>
+            <in>KeyRefPair.hpp</in>
+            <in>KeyValuePair.c</in>
+            <in>KeyValuePair.hpp</in>
+            <in>LogicalPath.c</in>
+            <in>Mutexes.cpp</in>
+            <in>Mutexes.hpp</in>
+            <in>NameIdPool.c</in>
+            <in>NameIdPool.hpp</in>
+            <in>NoSuchElementException.hpp</in>
+            <in>NullPointerException.hpp</in>
+            <in>NumberFormatException.hpp</in>
+            <in>OutOfMemoryException.hpp</in>
+            <in>PSVIUni.cpp</in>
+            <in>PSVIUni.hpp</in>
+            <in>PanicHandler.cpp</in>
+            <in>PanicHandler.hpp</in>
+            <in>ParseException.hpp</in>
+            <in>PlatformUtils.cpp</in>
+            <in>PlatformUtils.hpp</in>
+            <in>QName.cpp</in>
+            <in>QName.hpp</in>
+            <in>RefArrayOf.c</in>
+            <in>RefArrayOf.hpp</in>
+            <in>RefArrayVectorOf.c</in>
+            <in>RefArrayVectorOf.hpp</in>
+            <in>RefHash2KeysTableOf.c</in>
+            <in>RefHash2KeysTableOf.hpp</in>
+            <in>RefHash3KeysIdPool.c</in>
+            <in>RefHash3KeysIdPool.hpp</in>
+            <in>RefHashTableOf.c</in>
+            <in>RefHashTableOf.hpp</in>
+            <in>RefStackOf.c</in>
+            <in>RefStackOf.hpp</in>
+            <in>RefVectorOf.c</in>
+            <in>RefVectorOf.hpp</in>
+            <in>RuntimeException.hpp</in>
+            <in>SchemaDateTimeException.hpp</in>
+            <in>SecurityManager.hpp</in>
+            <in>StringPool.cpp</in>
+            <in>StringPool.hpp</in>
+            <in>SynchronizedStringPool.cpp</in>
+            <in>SynchronizedStringPool.hpp</in>
+            <in>TransENameMap.c</in>
+            <in>TransENameMap.hpp</in>
+            <in>TransService.cpp</in>
+            <in>TransService.hpp</in>
+            <in>TranscodingException.hpp</in>
+            <in>UTFDataFormatException.hpp</in>
+            <in>UnexpectedEOFException.hpp</in>
+            <in>UnsupportedEncodingException.hpp</in>
+            <in>ValueArrayOf.c</in>
+            <in>ValueArrayOf.hpp</in>
+            <in>ValueHashTableOf.c</in>
+            <in>ValueHashTableOf.hpp</in>
+            <in>ValueStackOf.c</in>
+            <in>ValueStackOf.hpp</in>
+            <in>ValueVectorOf.c</in>
+            <in>ValueVectorOf.hpp</in>
+            <in>XML256TableTranscoder.cpp</in>
+            <in>XML256TableTranscoder.hpp</in>
+            <in>XML88591Transcoder.cpp</in>
+            <in>XML88591Transcoder.hpp</in>
+            <in>XMLASCIITranscoder.cpp</in>
+            <in>XMLASCIITranscoder.hpp</in>
+            <in>XMLAbstractDoubleFloat.cpp</in>
+            <in>XMLAbstractDoubleFloat.hpp</in>
+            <in>XMLBigDecimal.cpp</in>
+            <in>XMLBigDecimal.hpp</in>
+            <in>XMLBigInteger.cpp</in>
+            <in>XMLBigInteger.hpp</in>
+            <in>XMLChTranscoder.cpp</in>
+            <in>XMLChTranscoder.hpp</in>
+            <in>XMLChar.cpp</in>
+            <in>XMLChar.hpp</in>
+            <in>XMLDOMMsg.hpp</in>
+            <in>XMLDateTime.cpp</in>
+            <in>XMLDateTime.hpp</in>
+            <in>XMLDouble.cpp</in>
+            <in>XMLDouble.hpp</in>
+            <in>XMLEBCDICTranscoder.cpp</in>
+            <in>XMLEBCDICTranscoder.hpp</in>
+            <in>XMLEntityResolver.hpp</in>
+            <in>XMLEnumerator.hpp</in>
+            <in>XMLExceptMsgs.hpp</in>
+            <in>XMLException.cpp</in>
+            <in>XMLException.hpp</in>
+            <in>XMLFileMgr.hpp</in>
+            <in>XMLFloat.cpp</in>
+            <in>XMLFloat.hpp</in>
+            <in>XMLIBM1047Transcoder.cpp</in>
+            <in>XMLIBM1047Transcoder.hpp</in>
+            <in>XMLIBM1140Transcoder.cpp</in>
+            <in>XMLIBM1140Transcoder.hpp</in>
+            <in>XMLInitializer.cpp</in>
+            <in>XMLInitializer.hpp</in>
+            <in>XMLInteger.hpp</in>
+            <in>XMLMsgLoader.cpp</in>
+            <in>XMLMsgLoader.hpp</in>
+            <in>XMLMutexMgr.hpp</in>
+            <in>XMLNetAccessor.hpp</in>
+            <in>XMLNumber.cpp</in>
+            <in>XMLNumber.hpp</in>
+            <in>XMLResourceIdentifier.hpp</in>
+            <in>XMLString.cpp</in>
+            <in>XMLString.hpp</in>
+            <in>XMLStringTokenizer.cpp</in>
+            <in>XMLStringTokenizer.hpp</in>
+            <in>XMLUCS4Transcoder.cpp</in>
+            <in>XMLUCS4Transcoder.hpp</in>
+            <in>XMLURL.cpp</in>
+            <in>XMLURL.hpp</in>
+            <in>XMLUTF16Transcoder.cpp</in>
+            <in>XMLUTF16Transcoder.hpp</in>
+            <in>XMLUTF8Transcoder.cpp</in>
+            <in>XMLUTF8Transcoder.hpp</in>
+            <in>XMLUni.cpp</in>
+            <in>XMLUni.hpp</in>
+            <in>XMLUniDefs.hpp</in>
+            <in>XMLUri.cpp</in>
+            <in>XMLUri.hpp</in>
+            <in>XMLWin1252Transcoder.cpp</in>
+            <in>XMLWin1252Transcoder.hpp</in>
+            <in>XMemory.cpp</in>
+            <in>XMemory.hpp</in>
+            <in>XercesDefs.hpp</in>
+            <in>XercesVersion.hpp</in>
+            <in>Xerces_autoconf_config.borland.hpp</in>
+            <in>Xerces_autoconf_config.hpp</in>
+            <in>Xerces_autoconf_config.msvc.hpp</in>
+          </df>
+          <df name="validators">
+            <df name="common">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <in>AllContentModel.cpp</in>
+              <in>AllContentModel.hpp</in>
+              <in>CMAny.cpp</in>
+              <in>CMAny.hpp</in>
+              <in>CMBinaryOp.cpp</in>
+              <in>CMBinaryOp.hpp</in>
+              <in>CMLeaf.hpp</in>
+              <in>CMNode.hpp</in>
+              <in>CMRepeatingLeaf.hpp</in>
+              <in>CMStateSet.hpp</in>
+              <in>CMUnaryOp.cpp</in>
+              <in>CMUnaryOp.hpp</in>
+              <in>ContentLeafNameTypeVector.cpp</in>
+              <in>ContentLeafNameTypeVector.hpp</in>
+              <in>ContentSpecNode.cpp</in>
+              <in>ContentSpecNode.hpp</in>
+              <in>DFAContentModel.cpp</in>
+              <in>DFAContentModel.hpp</in>
+              <in>Grammar.cpp</in>
+              <in>Grammar.hpp</in>
+              <in>GrammarResolver.cpp</in>
+              <in>GrammarResolver.hpp</in>
+              <in>MixedContentModel.cpp</in>
+              <in>MixedContentModel.hpp</in>
+              <in>SimpleContentModel.cpp</in>
+              <in>SimpleContentModel.hpp</in>
+            </df>
+            <df name="datatype">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <in>AbstractNumericFacetValidator.cpp</in>
+              <in>AbstractNumericFacetValidator.hpp</in>
+              <in>AbstractNumericValidator.cpp</in>
+              <in>AbstractNumericValidator.hpp</in>
+              <in>AbstractStringValidator.cpp</in>
+              <in>AbstractStringValidator.hpp</in>
+              <in>AnySimpleTypeDatatypeValidator.cpp</in>
+              <in>AnySimpleTypeDatatypeValidator.hpp</in>
+              <in>AnyURIDatatypeValidator.cpp</in>
+              <in>AnyURIDatatypeValidator.hpp</in>
+              <in>Base64BinaryDatatypeValidator.cpp</in>
+              <in>Base64BinaryDatatypeValidator.hpp</in>
+              <in>BooleanDatatypeValidator.cpp</in>
+              <in>BooleanDatatypeValidator.hpp</in>
+              <in>DatatypeValidator.cpp</in>
+              <in>DatatypeValidator.hpp</in>
+              <in>DatatypeValidatorFactory.cpp</in>
+              <in>DatatypeValidatorFactory.hpp</in>
+              <in>DateDatatypeValidator.cpp</in>
+              <in>DateDatatypeValidator.hpp</in>
+              <in>DateTimeDatatypeValidator.cpp</in>
+              <in>DateTimeDatatypeValidator.hpp</in>
+              <in>DateTimeValidator.cpp</in>
+              <in>DateTimeValidator.hpp</in>
+              <in>DayDatatypeValidator.cpp</in>
+              <in>DayDatatypeValidator.hpp</in>
+              <in>DecimalDatatypeValidator.cpp</in>
+              <in>DecimalDatatypeValidator.hpp</in>
+              <in>DoubleDatatypeValidator.cpp</in>
+              <in>DoubleDatatypeValidator.hpp</in>
+              <in>DurationDatatypeValidator.cpp</in>
+              <in>DurationDatatypeValidator.hpp</in>
+              <in>ENTITYDatatypeValidator.cpp</in>
+              <in>ENTITYDatatypeValidator.hpp</in>
+              <in>FloatDatatypeValidator.cpp</in>
+              <in>FloatDatatypeValidator.hpp</in>
+              <in>HexBinaryDatatypeValidator.cpp</in>
+              <in>HexBinaryDatatypeValidator.hpp</in>
+              <in>IDDatatypeValidator.cpp</in>
+              <in>IDDatatypeValidator.hpp</in>
+              <in>IDREFDatatypeValidator.cpp</in>
+              <in>IDREFDatatypeValidator.hpp</in>
+              <in>InvalidDatatypeFacetException.hpp</in>
+              <in>InvalidDatatypeValueException.hpp</in>
+              <in>ListDatatypeValidator.cpp</in>
+              <in>ListDatatypeValidator.hpp</in>
+              <in>MonthDatatypeValidator.cpp</in>
+              <in>MonthDatatypeValidator.hpp</in>
+              <in>MonthDayDatatypeValidator.cpp</in>
+              <in>MonthDayDatatypeValidator.hpp</in>
+              <in>NCNameDatatypeValidator.cpp</in>
+              <in>NCNameDatatypeValidator.hpp</in>
+              <in>NOTATIONDatatypeValidator.cpp</in>
+              <in>NOTATIONDatatypeValidator.hpp</in>
+              <in>NameDatatypeValidator.cpp</in>
+              <in>NameDatatypeValidator.hpp</in>
+              <in>QNameDatatypeValidator.cpp</in>
+              <in>QNameDatatypeValidator.hpp</in>
+              <in>StringDatatypeValidator.cpp</in>
+              <in>StringDatatypeValidator.hpp</in>
+              <in>TimeDatatypeValidator.cpp</in>
+              <in>TimeDatatypeValidator.hpp</in>
+              <in>UnionDatatypeValidator.cpp</in>
+              <in>UnionDatatypeValidator.hpp</in>
+              <in>XMLCanRepGroup.cpp</in>
+              <in>XMLCanRepGroup.hpp</in>
+              <in>YearDatatypeValidator.cpp</in>
+              <in>YearDatatypeValidator.hpp</in>
+              <in>YearMonthDatatypeValidator.cpp</in>
+              <in>YearMonthDatatypeValidator.hpp</in>
+            </df>
+            <df name="DTD">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <in>DTDAttDef.cpp</in>
+              <in>DTDAttDef.hpp</in>
+              <in>DTDAttDefList.cpp</in>
+              <in>DTDAttDefList.hpp</in>
+              <in>DTDElementDecl.cpp</in>
+              <in>DTDElementDecl.hpp</in>
+              <in>DTDEntityDecl.cpp</in>
+              <in>DTDEntityDecl.hpp</in>
+              <in>DTDGrammar.cpp</in>
+              <in>DTDGrammar.hpp</in>
+              <in>DTDScanner.cpp</in>
+              <in>DTDScanner.hpp</in>
+              <in>DTDValidator.cpp</in>
+              <in>DTDValidator.hpp</in>
+              <in>DocTypeHandler.hpp</in>
+              <in>XMLDTDDescriptionImpl.cpp</in>
+              <in>XMLDTDDescriptionImpl.hpp</in>
+            </df>
+            <df name="schema">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <df name="identity">
+                <df name=".deps">
+                </df>
+                <df name=".libs">
+                </df>
+                <in>FieldActivator.cpp</in>
+                <in>FieldActivator.hpp</in>
+                <in>FieldValueMap.cpp</in>
+                <in>FieldValueMap.hpp</in>
+                <in>IC_Field.cpp</in>
+                <in>IC_Field.hpp</in>
+                <in>IC_Key.cpp</in>
+                <in>IC_Key.hpp</in>
+                <in>IC_KeyRef.cpp</in>
+                <in>IC_KeyRef.hpp</in>
+                <in>IC_Selector.cpp</in>
+                <in>IC_Selector.hpp</in>
+                <in>IC_Unique.cpp</in>
+                <in>IC_Unique.hpp</in>
+                <in>IdentityConstraint.cpp</in>
+                <in>IdentityConstraint.hpp</in>
+                <in>IdentityConstraintHandler.cpp</in>
+                <in>IdentityConstraintHandler.hpp</in>
+                <in>ValueStore.cpp</in>
+                <in>ValueStore.hpp</in>
+                <in>ValueStoreCache.cpp</in>
+                <in>ValueStoreCache.hpp</in>
+                <in>XPathException.hpp</in>
+                <in>XPathMatcher.cpp</in>
+                <in>XPathMatcher.hpp</in>
+                <in>XPathMatcherStack.cpp</in>
+                <in>XPathMatcherStack.hpp</in>
+                <in>XPathSymbols.cpp</in>
+                <in>XPathSymbols.hpp</in>
+                <in>XercesXPath.cpp</in>
+                <in>XercesXPath.hpp</in>
+              </df>
+              <in>ComplexTypeInfo.cpp</in>
+              <in>ComplexTypeInfo.hpp</in>
+              <in>GeneralAttributeCheck.cpp</in>
+              <in>GeneralAttributeCheck.hpp</in>
+              <in>NamespaceScope.cpp</in>
+              <in>NamespaceScope.hpp</in>
+              <in>PSVIDefs.hpp</in>
+              <in>SchemaAttDef.cpp</in>
+              <in>SchemaAttDef.hpp</in>
+              <in>SchemaAttDefList.cpp</in>
+              <in>SchemaAttDefList.hpp</in>
+              <in>SchemaElementDecl.cpp</in>
+              <in>SchemaElementDecl.hpp</in>
+              <in>SchemaGrammar.cpp</in>
+              <in>SchemaGrammar.hpp</in>
+              <in>SchemaInfo.cpp</in>
+              <in>SchemaInfo.hpp</in>
+              <in>SchemaSymbols.cpp</in>
+              <in>SchemaSymbols.hpp</in>
+              <in>SchemaValidator.cpp</in>
+              <in>SchemaValidator.hpp</in>
+              <in>SubstitutionGroupComparator.cpp</in>
+              <in>SubstitutionGroupComparator.hpp</in>
+              <in>TraverseSchema.cpp</in>
+              <in>TraverseSchema.hpp</in>
+              <in>XMLSchemaDescriptionImpl.cpp</in>
+              <in>XMLSchemaDescriptionImpl.hpp</in>
+              <in>XSDDOMParser.cpp</in>
+              <in>XSDDOMParser.hpp</in>
+              <in>XSDErrorReporter.cpp</in>
+              <in>XSDErrorReporter.hpp</in>
+              <in>XSDLocator.cpp</in>
+              <in>XSDLocator.hpp</in>
+              <in>XUtil.cpp</in>
+              <in>XUtil.hpp</in>
+              <in>XercesAttGroupInfo.cpp</in>
+              <in>XercesAttGroupInfo.hpp</in>
+              <in>XercesElementWildcard.cpp</in>
+              <in>XercesElementWildcard.hpp</in>
+              <in>XercesGroupInfo.cpp</in>
+              <in>XercesGroupInfo.hpp</in>
+            </df>
+          </df>
+          <df name="xinclude">
+            <df name=".deps">
+            </df>
+            <df name=".libs">
+            </df>
+            <in>XIncludeDOMDocumentProcessor.cpp</in>
+            <in>XIncludeDOMDocumentProcessor.hpp</in>
+            <in>XIncludeLocation.cpp</in>
+            <in>XIncludeLocation.hpp</in>
+            <in>XIncludeUtils.cpp</in>
+            <in>XIncludeUtils.hpp</in>
+          </df>
+        </df>
+        <df name="xmlparser">
+          <df name="cli">
+            <in>drampower.cc</in>
+          </df>
+          <df name="libdrampower">
+            <in>LibDRAMPower.cc</in>
+            <in>LibDRAMPower.h</in>
+          </df>
+          <df name="xercesc">
+            <df name="dom">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <df name="impl">
+                <df name=".deps">
+                </df>
+                <df name=".libs">
+                </df>
+                <in>DOMAttrImpl.cpp</in>
+                <in>DOMAttrImpl.hpp</in>
+                <in>DOMAttrMapImpl.cpp</in>
+                <in>DOMAttrMapImpl.hpp</in>
+                <in>DOMAttrNSImpl.cpp</in>
+                <in>DOMAttrNSImpl.hpp</in>
+                <in>DOMCDATASectionImpl.cpp</in>
+                <in>DOMCDATASectionImpl.hpp</in>
+                <in>DOMCasts.hpp</in>
+                <in>DOMCharacterDataImpl.cpp</in>
+                <in>DOMCharacterDataImpl.hpp</in>
+                <in>DOMChildNode.cpp</in>
+                <in>DOMChildNode.hpp</in>
+                <in>DOMCommentImpl.cpp</in>
+                <in>DOMCommentImpl.hpp</in>
+                <in>DOMConfigurationImpl.cpp</in>
+                <in>DOMConfigurationImpl.hpp</in>
+                <in>DOMDeepNodeListImpl.cpp</in>
+                <in>DOMDeepNodeListImpl.hpp</in>
+                <in>DOMDeepNodeListPool.c</in>
+                <in>DOMDeepNodeListPool.hpp</in>
+                <in>DOMDocumentFragmentImpl.cpp</in>
+                <in>DOMDocumentFragmentImpl.hpp</in>
+                <in>DOMDocumentImpl.cpp</in>
+                <in>DOMDocumentImpl.hpp</in>
+                <in>DOMDocumentTypeImpl.cpp</in>
+                <in>DOMDocumentTypeImpl.hpp</in>
+                <in>DOMElementImpl.cpp</in>
+                <in>DOMElementImpl.hpp</in>
+                <in>DOMElementNSImpl.cpp</in>
+                <in>DOMElementNSImpl.hpp</in>
+                <in>DOMEntityImpl.cpp</in>
+                <in>DOMEntityImpl.hpp</in>
+                <in>DOMEntityReferenceImpl.cpp</in>
+                <in>DOMEntityReferenceImpl.hpp</in>
+                <in>DOMErrorImpl.cpp</in>
+                <in>DOMErrorImpl.hpp</in>
+                <in>DOMImplementationImpl.cpp</in>
+                <in>DOMImplementationImpl.hpp</in>
+                <in>DOMImplementationListImpl.cpp</in>
+                <in>DOMImplementationListImpl.hpp</in>
+                <in>DOMImplementationRegistry.cpp</in>
+                <in>DOMLSInputImpl.cpp</in>
+                <in>DOMLSInputImpl.hpp</in>
+                <in>DOMLSOutputImpl.cpp</in>
+                <in>DOMLSOutputImpl.hpp</in>
+                <in>DOMLSSerializerImpl.cpp</in>
+                <in>DOMLSSerializerImpl.hpp</in>
+                <in>DOMLocatorImpl.cpp</in>
+                <in>DOMLocatorImpl.hpp</in>
+                <in>DOMNamedNodeMapImpl.cpp</in>
+                <in>DOMNamedNodeMapImpl.hpp</in>
+                <in>DOMNodeIDMap.cpp</in>
+                <in>DOMNodeIDMap.hpp</in>
+                <in>DOMNodeImpl.cpp</in>
+                <in>DOMNodeImpl.hpp</in>
+                <in>DOMNodeIteratorImpl.cpp</in>
+                <in>DOMNodeIteratorImpl.hpp</in>
+                <in>DOMNodeListImpl.cpp</in>
+                <in>DOMNodeListImpl.hpp</in>
+                <in>DOMNodeVector.cpp</in>
+                <in>DOMNodeVector.hpp</in>
+                <in>DOMNormalizer.cpp</in>
+                <in>DOMNormalizer.hpp</in>
+                <in>DOMNotationImpl.cpp</in>
+                <in>DOMNotationImpl.hpp</in>
+                <in>DOMParentNode.cpp</in>
+                <in>DOMParentNode.hpp</in>
+                <in>DOMProcessingInstructionImpl.cpp</in>
+                <in>DOMProcessingInstructionImpl.hpp</in>
+                <in>DOMRangeImpl.cpp</in>
+                <in>DOMRangeImpl.hpp</in>
+                <in>DOMStringListImpl.cpp</in>
+                <in>DOMStringListImpl.hpp</in>
+                <in>DOMStringPool.cpp</in>
+                <in>DOMStringPool.hpp</in>
+                <in>DOMTextImpl.cpp</in>
+                <in>DOMTextImpl.hpp</in>
+                <in>DOMTreeWalkerImpl.cpp</in>
+                <in>DOMTreeWalkerImpl.hpp</in>
+                <in>DOMTypeInfoImpl.cpp</in>
+                <in>DOMTypeInfoImpl.hpp</in>
+                <in>DOMXPathExpressionImpl.cpp</in>
+                <in>DOMXPathExpressionImpl.hpp</in>
+                <in>DOMXPathNSResolverImpl.cpp</in>
+                <in>DOMXPathNSResolverImpl.hpp</in>
+                <in>DOMXPathResultImpl.cpp</in>
+                <in>DOMXPathResultImpl.hpp</in>
+                <in>XSDElementNSImpl.cpp</in>
+                <in>XSDElementNSImpl.hpp</in>
+              </df>
+              <in>DOM.hpp</in>
+              <in>DOMAttr.hpp</in>
+              <in>DOMCDATASection.hpp</in>
+              <in>DOMCharacterData.hpp</in>
+              <in>DOMComment.hpp</in>
+              <in>DOMConfiguration.hpp</in>
+              <in>DOMDocument.hpp</in>
+              <in>DOMDocumentFragment.hpp</in>
+              <in>DOMDocumentRange.hpp</in>
+              <in>DOMDocumentTraversal.hpp</in>
+              <in>DOMDocumentType.hpp</in>
+              <in>DOMElement.hpp</in>
+              <in>DOMEntity.hpp</in>
+              <in>DOMEntityReference.hpp</in>
+              <in>DOMError.hpp</in>
+              <in>DOMErrorHandler.hpp</in>
+              <in>DOMException.cpp</in>
+              <in>DOMException.hpp</in>
+              <in>DOMImplementation.hpp</in>
+              <in>DOMImplementationLS.hpp</in>
+              <in>DOMImplementationList.hpp</in>
+              <in>DOMImplementationRegistry.hpp</in>
+              <in>DOMImplementationSource.hpp</in>
+              <in>DOMLSException.cpp</in>
+              <in>DOMLSException.hpp</in>
+              <in>DOMLSInput.hpp</in>
+              <in>DOMLSOutput.hpp</in>
+              <in>DOMLSParser.hpp</in>
+              <in>DOMLSParserFilter.hpp</in>
+              <in>DOMLSResourceResolver.hpp</in>
+              <in>DOMLSSerializer.hpp</in>
+              <in>DOMLSSerializerFilter.hpp</in>
+              <in>DOMLocator.hpp</in>
+              <in>DOMMemoryManager.hpp</in>
+              <in>DOMNamedNodeMap.hpp</in>
+              <in>DOMNode.hpp</in>
+              <in>DOMNodeFilter.hpp</in>
+              <in>DOMNodeIterator.hpp</in>
+              <in>DOMNodeList.hpp</in>
+              <in>DOMNotation.hpp</in>
+              <in>DOMPSVITypeInfo.hpp</in>
+              <in>DOMProcessingInstruction.hpp</in>
+              <in>DOMRange.hpp</in>
+              <in>DOMRangeException.cpp</in>
+              <in>DOMRangeException.hpp</in>
+              <in>DOMStringList.hpp</in>
+              <in>DOMText.hpp</in>
+              <in>DOMTreeWalker.hpp</in>
+              <in>DOMTypeInfo.hpp</in>
+              <in>DOMUserDataHandler.hpp</in>
+              <in>DOMXPathEvaluator.hpp</in>
+              <in>DOMXPathException.cpp</in>
+              <in>DOMXPathException.hpp</in>
+              <in>DOMXPathExpression.hpp</in>
+              <in>DOMXPathNSResolver.hpp</in>
+              <in>DOMXPathNamespace.hpp</in>
+              <in>DOMXPathResult.hpp</in>
+              <in>StDOMNode.hpp</in>
+            </df>
+            <df name="framework">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <df name="psvi">
+                <df name=".deps">
+                </df>
+                <df name=".libs">
+                </df>
+                <in>PSVIAttribute.cpp</in>
+                <in>PSVIAttribute.hpp</in>
+                <in>PSVIAttributeList.cpp</in>
+                <in>PSVIAttributeList.hpp</in>
+                <in>PSVIElement.cpp</in>
+                <in>PSVIElement.hpp</in>
+                <in>PSVIHandler.hpp</in>
+                <in>PSVIItem.cpp</in>
+                <in>PSVIItem.hpp</in>
+                <in>XSAnnotation.cpp</in>
+                <in>XSAnnotation.hpp</in>
+                <in>XSAttributeDeclaration.cpp</in>
+                <in>XSAttributeDeclaration.hpp</in>
+                <in>XSAttributeGroupDefinition.cpp</in>
+                <in>XSAttributeGroupDefinition.hpp</in>
+                <in>XSAttributeUse.cpp</in>
+                <in>XSAttributeUse.hpp</in>
+                <in>XSComplexTypeDefinition.cpp</in>
+                <in>XSComplexTypeDefinition.hpp</in>
+                <in>XSConstants.hpp</in>
+                <in>XSElementDeclaration.cpp</in>
+                <in>XSElementDeclaration.hpp</in>
+                <in>XSFacet.cpp</in>
+                <in>XSFacet.hpp</in>
+                <in>XSIDCDefinition.cpp</in>
+                <in>XSIDCDefinition.hpp</in>
+                <in>XSModel.cpp</in>
+                <in>XSModel.hpp</in>
+                <in>XSModelGroup.cpp</in>
+                <in>XSModelGroup.hpp</in>
+                <in>XSModelGroupDefinition.cpp</in>
+                <in>XSModelGroupDefinition.hpp</in>
+                <in>XSMultiValueFacet.cpp</in>
+                <in>XSMultiValueFacet.hpp</in>
+                <in>XSNamedMap.c</in>
+                <in>XSNamedMap.hpp</in>
+                <in>XSNamespaceItem.cpp</in>
+                <in>XSNamespaceItem.hpp</in>
+                <in>XSNotationDeclaration.cpp</in>
+                <in>XSNotationDeclaration.hpp</in>
+                <in>XSObject.cpp</in>
+                <in>XSObject.hpp</in>
+                <in>XSParticle.cpp</in>
+                <in>XSParticle.hpp</in>
+                <in>XSSimpleTypeDefinition.cpp</in>
+                <in>XSSimpleTypeDefinition.hpp</in>
+                <in>XSTypeDefinition.cpp</in>
+                <in>XSTypeDefinition.hpp</in>
+                <in>XSValue.cpp</in>
+                <in>XSValue.hpp</in>
+                <in>XSWildcard.cpp</in>
+                <in>XSWildcard.hpp</in>
+              </df>
+              <in>BinOutputStream.cpp</in>
+              <in>BinOutputStream.hpp</in>
+              <in>LocalFileFormatTarget.cpp</in>
+              <in>LocalFileFormatTarget.hpp</in>
+              <in>LocalFileInputSource.cpp</in>
+              <in>LocalFileInputSource.hpp</in>
+              <in>MemBufFormatTarget.cpp</in>
+              <in>MemBufFormatTarget.hpp</in>
+              <in>MemBufInputSource.cpp</in>
+              <in>MemBufInputSource.hpp</in>
+              <in>MemoryManager.hpp</in>
+              <in>StdInInputSource.cpp</in>
+              <in>StdInInputSource.hpp</in>
+              <in>StdOutFormatTarget.cpp</in>
+              <in>StdOutFormatTarget.hpp</in>
+              <in>URLInputSource.cpp</in>
+              <in>URLInputSource.hpp</in>
+              <in>ValidationContext.hpp</in>
+              <in>Wrapper4DOMLSInput.cpp</in>
+              <in>Wrapper4DOMLSInput.hpp</in>
+              <in>Wrapper4InputSource.cpp</in>
+              <in>Wrapper4InputSource.hpp</in>
+              <in>XMLAttDef.cpp</in>
+              <in>XMLAttDef.hpp</in>
+              <in>XMLAttDefList.cpp</in>
+              <in>XMLAttDefList.hpp</in>
+              <in>XMLAttr.cpp</in>
+              <in>XMLAttr.hpp</in>
+              <in>XMLBuffer.cpp</in>
+              <in>XMLBuffer.hpp</in>
+              <in>XMLBufferMgr.cpp</in>
+              <in>XMLBufferMgr.hpp</in>
+              <in>XMLContentModel.cpp</in>
+              <in>XMLContentModel.hpp</in>
+              <in>XMLDTDDescription.cpp</in>
+              <in>XMLDTDDescription.hpp</in>
+              <in>XMLDocumentHandler.hpp</in>
+              <in>XMLElementDecl.cpp</in>
+              <in>XMLElementDecl.hpp</in>
+              <in>XMLEntityDecl.cpp</in>
+              <in>XMLEntityDecl.hpp</in>
+              <in>XMLEntityHandler.hpp</in>
+              <in>XMLErrorCodes.hpp</in>
+              <in>XMLErrorReporter.hpp</in>
+              <in>XMLFormatter.cpp</in>
+              <in>XMLFormatter.hpp</in>
+              <in>XMLGrammarDescription.cpp</in>
+              <in>XMLGrammarDescription.hpp</in>
+              <in>XMLGrammarPool.hpp</in>
+              <in>XMLGrammarPoolImpl.cpp</in>
+              <in>XMLGrammarPoolImpl.hpp</in>
+              <in>XMLNotationDecl.cpp</in>
+              <in>XMLNotationDecl.hpp</in>
+              <in>XMLPScanToken.hpp</in>
+              <in>XMLRecognizer.cpp</in>
+              <in>XMLRecognizer.hpp</in>
+              <in>XMLRefInfo.cpp</in>
+              <in>XMLRefInfo.hpp</in>
+              <in>XMLSchemaDescription.cpp</in>
+              <in>XMLSchemaDescription.hpp</in>
+              <in>XMLValidator.cpp</in>
+              <in>XMLValidator.hpp</in>
+              <in>XMLValidityCodes.hpp</in>
+            </df>
+            <df name="internal">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <in>BinFileOutputStream.cpp</in>
+              <in>BinFileOutputStream.hpp</in>
+              <in>BinMemOutputStream.cpp</in>
+              <in>BinMemOutputStream.hpp</in>
+              <in>CharTypeTables.hpp</in>
+              <in>DGXMLScanner.cpp</in>
+              <in>DGXMLScanner.hpp</in>
+              <in>ElemStack.cpp</in>
+              <in>ElemStack.hpp</in>
+              <in>EndOfEntityException.hpp</in>
+              <in>IANAEncodings.hpp</in>
+              <in>IGXMLScanner.cpp</in>
+              <in>IGXMLScanner.hpp</in>
+              <in>IGXMLScanner2.cpp</in>
+              <in>MemoryManagerImpl.cpp</in>
+              <in>MemoryManagerImpl.hpp</in>
+              <in>ReaderMgr.cpp</in>
+              <in>ReaderMgr.hpp</in>
+              <in>SGXMLScanner.cpp</in>
+              <in>SGXMLScanner.hpp</in>
+              <in>ValidationContextImpl.cpp</in>
+              <in>ValidationContextImpl.hpp</in>
+              <in>VecAttrListImpl.cpp</in>
+              <in>VecAttrListImpl.hpp</in>
+              <in>VecAttributesImpl.cpp</in>
+              <in>VecAttributesImpl.hpp</in>
+              <in>WFXMLScanner.cpp</in>
+              <in>WFXMLScanner.hpp</in>
+              <in>XMLInternalErrorHandler.hpp</in>
+              <in>XMLReader.cpp</in>
+              <in>XMLReader.hpp</in>
+              <in>XMLScanner.cpp</in>
+              <in>XMLScanner.hpp</in>
+              <in>XMLScannerResolver.cpp</in>
+              <in>XMLScannerResolver.hpp</in>
+              <in>XProtoType.cpp</in>
+              <in>XProtoType.hpp</in>
+              <in>XSAXMLScanner.cpp</in>
+              <in>XSAXMLScanner.hpp</in>
+              <in>XSObjectFactory.cpp</in>
+              <in>XSObjectFactory.hpp</in>
+              <in>XSerializable.hpp</in>
+              <in>XSerializationException.hpp</in>
+              <in>XSerializeEngine.cpp</in>
+              <in>XSerializeEngine.hpp</in>
+              <in>XTemplateSerializer.cpp</in>
+              <in>XTemplateSerializer.hpp</in>
+            </df>
+            <df name="NLS">
+              <df name="EN_US">
+              </df>
+            </df>
+            <df name="parsers">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <in>AbstractDOMParser.cpp</in>
+              <in>AbstractDOMParser.hpp</in>
+              <in>DOMLSParserImpl.cpp</in>
+              <in>DOMLSParserImpl.hpp</in>
+              <in>SAX2XMLFilterImpl.cpp</in>
+              <in>SAX2XMLFilterImpl.hpp</in>
+              <in>SAX2XMLReaderImpl.cpp</in>
+              <in>SAX2XMLReaderImpl.hpp</in>
+              <in>SAXParser.cpp</in>
+              <in>SAXParser.hpp</in>
+              <in>XercesDOMParser.cpp</in>
+              <in>XercesDOMParser.hpp</in>
+            </df>
+            <df name="sax">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <in>AttributeList.hpp</in>
+              <in>DTDHandler.hpp</in>
+              <in>DocumentHandler.hpp</in>
+              <in>Dummy.cpp</in>
+              <in>EntityResolver.hpp</in>
+              <in>ErrorHandler.hpp</in>
+              <in>HandlerBase.hpp</in>
+              <in>InputSource.cpp</in>
+              <in>InputSource.hpp</in>
+              <in>Locator.hpp</in>
+              <in>Parser.hpp</in>
+              <in>SAXException.cpp</in>
+              <in>SAXException.hpp</in>
+              <in>SAXParseException.cpp</in>
+              <in>SAXParseException.hpp</in>
+            </df>
+            <df name="sax2">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <in>Attributes.hpp</in>
+              <in>ContentHandler.hpp</in>
+              <in>DeclHandler.hpp</in>
+              <in>DefaultHandler.hpp</in>
+              <in>LexicalHandler.hpp</in>
+              <in>SAX2XMLFilter.hpp</in>
+              <in>SAX2XMLReader.hpp</in>
+              <in>XMLReaderFactory.hpp</in>
+              <in>sax2Dummy.cpp</in>
+            </df>
+            <df name="util">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <df name="FileManagers">
+                <df name=".deps">
+                </df>
+                <df name=".libs">
+                </df>
+                <in>PosixFileMgr.cpp</in>
+                <in>PosixFileMgr.hpp</in>
+                <in>WindowsFileMgr.cpp</in>
+                <in>WindowsFileMgr.hpp</in>
+              </df>
+              <df name="MsgLoaders">
+                <df name="ICU">
+                  <df name=".deps">
+                  </df>
+                  <df name="resources">
+                  </df>
+                  <in>ICUMsgLoader.cpp</in>
+                  <in>ICUMsgLoader.hpp</in>
+                </df>
+                <df name="InMemory">
+                  <df name=".deps">
+                  </df>
+                  <df name=".libs">
+                  </df>
+                  <in>InMemMsgLoader.cpp</in>
+                  <in>InMemMsgLoader.hpp</in>
+                  <in>XercesMessages_en_US.hpp</in>
+                </df>
+                <df name="MsgCatalog">
+                  <df name=".deps">
+                  </df>
+                  <in>MsgCatalogLoader.cpp</in>
+                  <in>MsgCatalogLoader.hpp</in>
+                  <in>XMLMsgCat_Ids.hpp</in>
+                </df>
+                <df name="Win32">
+                  <in>Win32MsgLoader.cpp</in>
+                  <in>Win32MsgLoader.hpp</in>
+                  <in>resource.h</in>
+                </df>
+              </df>
+              <df name="MutexManagers">
+                <df name=".deps">
+                </df>
+                <df name=".libs">
+                </df>
+                <in>NoThreadMutexMgr.cpp</in>
+                <in>NoThreadMutexMgr.hpp</in>
+                <in>PosixMutexMgr.cpp</in>
+                <in>PosixMutexMgr.hpp</in>
+                <in>WindowsMutexMgr.cpp</in>
+                <in>WindowsMutexMgr.hpp</in>
+              </df>
+              <df name="NetAccessors">
+                <df name=".deps">
+                </df>
+                <df name="Curl">
+                  <df name=".deps">
+                  </df>
+                  <df name=".libs">
+                  </df>
+                  <in>CurlNetAccessor.cpp</in>
+                  <in>CurlNetAccessor.hpp</in>
+                  <in>CurlURLInputStream.cpp</in>
+                  <in>CurlURLInputStream.hpp</in>
+                </df>
+                <df name="MacOSURLAccessCF">
+                  <df name=".deps">
+                  </df>
+                  <in>MacOSURLAccessCF.cpp</in>
+                  <in>MacOSURLAccessCF.hpp</in>
+                  <in>URLAccessCFBinInputStream.cpp</in>
+                  <in>URLAccessCFBinInputStream.hpp</in>
+                </df>
+                <df name="Socket">
+                  <df name=".deps">
+                  </df>
+                  <in>SocketNetAccessor.cpp</in>
+                  <in>SocketNetAccessor.hpp</in>
+                  <in>UnixHTTPURLInputStream.cpp</in>
+                  <in>UnixHTTPURLInputStream.hpp</in>
+                </df>
+                <df name="WinSock">
+                  <df name=".deps">
+                  </df>
+                  <in>BinHTTPURLInputStream.cpp</in>
+                  <in>BinHTTPURLInputStream.hpp</in>
+                  <in>WinSockNetAccessor.cpp</in>
+                  <in>WinSockNetAccessor.hpp</in>
+                </df>
+                <in>BinHTTPInputStreamCommon.cpp</in>
+                <in>BinHTTPInputStreamCommon.hpp</in>
+              </df>
+              <df name="regx">
+                <df name=".deps">
+                </df>
+                <df name=".libs">
+                </df>
+                <in>ASCIIRangeFactory.cpp</in>
+                <in>ASCIIRangeFactory.hpp</in>
+                <in>BMPattern.cpp</in>
+                <in>BMPattern.hpp</in>
+                <in>BlockRangeFactory.cpp</in>
+                <in>BlockRangeFactory.hpp</in>
+                <in>CharToken.cpp</in>
+                <in>CharToken.hpp</in>
+                <in>ClosureToken.cpp</in>
+                <in>ClosureToken.hpp</in>
+                <in>ConcatToken.cpp</in>
+                <in>ConcatToken.hpp</in>
+                <in>Match.cpp</in>
+                <in>Match.hpp</in>
+                <in>Op.cpp</in>
+                <in>Op.hpp</in>
+                <in>OpFactory.cpp</in>
+                <in>OpFactory.hpp</in>
+                <in>ParenToken.cpp</in>
+                <in>ParenToken.hpp</in>
+                <in>ParserForXMLSchema.cpp</in>
+                <in>ParserForXMLSchema.hpp</in>
+                <in>RangeFactory.cpp</in>
+                <in>RangeFactory.hpp</in>
+                <in>RangeToken.cpp</in>
+                <in>RangeToken.hpp</in>
+                <in>RangeTokenMap.cpp</in>
+                <in>RangeTokenMap.hpp</in>
+                <in>RegularExpression.cpp</in>
+                <in>RegularExpression.hpp</in>
+                <in>RegxDefs.hpp</in>
+                <in>RegxParser.cpp</in>
+                <in>RegxParser.hpp</in>
+                <in>RegxUtil.cpp</in>
+                <in>RegxUtil.hpp</in>
+                <in>StringToken.cpp</in>
+                <in>StringToken.hpp</in>
+                <in>Token.cpp</in>
+                <in>Token.hpp</in>
+                <in>TokenFactory.cpp</in>
+                <in>TokenFactory.hpp</in>
+                <in>TokenInc.hpp</in>
+                <in>UniCharTable.hpp</in>
+                <in>UnicodeRangeFactory.cpp</in>
+                <in>UnicodeRangeFactory.hpp</in>
+                <in>UnionToken.cpp</in>
+                <in>UnionToken.hpp</in>
+                <in>XMLRangeFactory.cpp</in>
+                <in>XMLRangeFactory.hpp</in>
+                <in>XMLUniCharacter.cpp</in>
+                <in>XMLUniCharacter.hpp</in>
+              </df>
+              <df name="Transcoders">
+                <df name="Iconv">
+                  <df name=".deps">
+                  </df>
+                  <in>IconvTransService.cpp</in>
+                  <in>IconvTransService.hpp</in>
+                </df>
+                <df name="IconvGNU">
+                  <df name=".deps">
+                  </df>
+                  <in>IconvGNUTransService.cpp</in>
+                  <in>IconvGNUTransService.hpp</in>
+                </df>
+                <df name="ICU">
+                  <df name=".deps">
+                  </df>
+                  <in>ICUTransService.cpp</in>
+                  <in>ICUTransService.hpp</in>
+                </df>
+                <df name="MacOSUnicodeConverter">
+                  <df name=".deps">
+                  </df>
+                  <df name=".libs">
+                  </df>
+                  <in>MacOSUnicodeConverter.cpp</in>
+                  <in>MacOSUnicodeConverter.hpp</in>
+                </df>
+                <df name="Win32">
+                  <df name=".deps">
+                  </df>
+                  <in>Win32TransService.cpp</in>
+                  <in>Win32TransService.hpp</in>
+                </df>
+              </df>
+              <in>ArrayIndexOutOfBoundsException.hpp</in>
+              <in>Base64.cpp</in>
+              <in>Base64.hpp</in>
+              <in>BaseRefVectorOf.c</in>
+              <in>BaseRefVectorOf.hpp</in>
+              <in>BinFileInputStream.cpp</in>
+              <in>BinFileInputStream.hpp</in>
+              <in>BinInputStream.cpp</in>
+              <in>BinInputStream.hpp</in>
+              <in>BinMemInputStream.cpp</in>
+              <in>BinMemInputStream.hpp</in>
+              <in>BitOps.hpp</in>
+              <in>BitSet.cpp</in>
+              <in>BitSet.hpp</in>
+              <in>CountedPointer.c</in>
+              <in>CountedPointer.hpp</in>
+              <in>DefaultPanicHandler.cpp</in>
+              <in>DefaultPanicHandler.hpp</in>
+              <in>EmptyStackException.hpp</in>
+              <in>EncodingValidator.cpp</in>
+              <in>EncodingValidator.hpp</in>
+              <in>FlagJanitor.c</in>
+              <in>FlagJanitor.hpp</in>
+              <in>Hash2KeysSetOf.c</in>
+              <in>Hash2KeysSetOf.hpp</in>
+              <in>Hashers.hpp</in>
+              <in>HeaderDummy.cpp</in>
+              <in>HexBin.cpp</in>
+              <in>HexBin.hpp</in>
+              <in>IOException.hpp</in>
+              <in>IllegalArgumentException.hpp</in>
+              <in>InvalidCastException.hpp</in>
+              <in>Janitor.c</in>
+              <in>Janitor.hpp</in>
+              <in>KVStringPair.cpp</in>
+              <in>KVStringPair.hpp</in>
+              <in>KeyRefPair.c</in>
+              <in>KeyRefPair.hpp</in>
+              <in>KeyValuePair.c</in>
+              <in>KeyValuePair.hpp</in>
+              <in>LogicalPath.c</in>
+              <in>Mutexes.cpp</in>
+              <in>Mutexes.hpp</in>
+              <in>NameIdPool.c</in>
+              <in>NameIdPool.hpp</in>
+              <in>NoSuchElementException.hpp</in>
+              <in>NullPointerException.hpp</in>
+              <in>NumberFormatException.hpp</in>
+              <in>OutOfMemoryException.hpp</in>
+              <in>PSVIUni.cpp</in>
+              <in>PSVIUni.hpp</in>
+              <in>PanicHandler.cpp</in>
+              <in>PanicHandler.hpp</in>
+              <in>ParseException.hpp</in>
+              <in>PlatformUtils.cpp</in>
+              <in>PlatformUtils.hpp</in>
+              <in>QName.cpp</in>
+              <in>QName.hpp</in>
+              <in>RefArrayOf.c</in>
+              <in>RefArrayOf.hpp</in>
+              <in>RefArrayVectorOf.c</in>
+              <in>RefArrayVectorOf.hpp</in>
+              <in>RefHash2KeysTableOf.c</in>
+              <in>RefHash2KeysTableOf.hpp</in>
+              <in>RefHash3KeysIdPool.c</in>
+              <in>RefHash3KeysIdPool.hpp</in>
+              <in>RefHashTableOf.c</in>
+              <in>RefHashTableOf.hpp</in>
+              <in>RefStackOf.c</in>
+              <in>RefStackOf.hpp</in>
+              <in>RefVectorOf.c</in>
+              <in>RefVectorOf.hpp</in>
+              <in>RuntimeException.hpp</in>
+              <in>SchemaDateTimeException.hpp</in>
+              <in>SecurityManager.hpp</in>
+              <in>StringPool.cpp</in>
+              <in>StringPool.hpp</in>
+              <in>SynchronizedStringPool.cpp</in>
+              <in>SynchronizedStringPool.hpp</in>
+              <in>TransENameMap.c</in>
+              <in>TransENameMap.hpp</in>
+              <in>TransService.cpp</in>
+              <in>TransService.hpp</in>
+              <in>TranscodingException.hpp</in>
+              <in>UTFDataFormatException.hpp</in>
+              <in>UnexpectedEOFException.hpp</in>
+              <in>UnsupportedEncodingException.hpp</in>
+              <in>ValueArrayOf.c</in>
+              <in>ValueArrayOf.hpp</in>
+              <in>ValueHashTableOf.c</in>
+              <in>ValueHashTableOf.hpp</in>
+              <in>ValueStackOf.c</in>
+              <in>ValueStackOf.hpp</in>
+              <in>ValueVectorOf.c</in>
+              <in>ValueVectorOf.hpp</in>
+              <in>XML256TableTranscoder.cpp</in>
+              <in>XML256TableTranscoder.hpp</in>
+              <in>XML88591Transcoder.cpp</in>
+              <in>XML88591Transcoder.hpp</in>
+              <in>XMLASCIITranscoder.cpp</in>
+              <in>XMLASCIITranscoder.hpp</in>
+              <in>XMLAbstractDoubleFloat.cpp</in>
+              <in>XMLAbstractDoubleFloat.hpp</in>
+              <in>XMLBigDecimal.cpp</in>
+              <in>XMLBigDecimal.hpp</in>
+              <in>XMLBigInteger.cpp</in>
+              <in>XMLBigInteger.hpp</in>
+              <in>XMLChTranscoder.cpp</in>
+              <in>XMLChTranscoder.hpp</in>
+              <in>XMLChar.cpp</in>
+              <in>XMLChar.hpp</in>
+              <in>XMLDOMMsg.hpp</in>
+              <in>XMLDateTime.cpp</in>
+              <in>XMLDateTime.hpp</in>
+              <in>XMLDouble.cpp</in>
+              <in>XMLDouble.hpp</in>
+              <in>XMLEBCDICTranscoder.cpp</in>
+              <in>XMLEBCDICTranscoder.hpp</in>
+              <in>XMLEntityResolver.hpp</in>
+              <in>XMLEnumerator.hpp</in>
+              <in>XMLExceptMsgs.hpp</in>
+              <in>XMLException.cpp</in>
+              <in>XMLException.hpp</in>
+              <in>XMLFileMgr.hpp</in>
+              <in>XMLFloat.cpp</in>
+              <in>XMLFloat.hpp</in>
+              <in>XMLIBM1047Transcoder.cpp</in>
+              <in>XMLIBM1047Transcoder.hpp</in>
+              <in>XMLIBM1140Transcoder.cpp</in>
+              <in>XMLIBM1140Transcoder.hpp</in>
+              <in>XMLInitializer.cpp</in>
+              <in>XMLInitializer.hpp</in>
+              <in>XMLInteger.hpp</in>
+              <in>XMLMsgLoader.cpp</in>
+              <in>XMLMsgLoader.hpp</in>
+              <in>XMLMutexMgr.hpp</in>
+              <in>XMLNetAccessor.hpp</in>
+              <in>XMLNumber.cpp</in>
+              <in>XMLNumber.hpp</in>
+              <in>XMLResourceIdentifier.hpp</in>
+              <in>XMLString.cpp</in>
+              <in>XMLString.hpp</in>
+              <in>XMLStringTokenizer.cpp</in>
+              <in>XMLStringTokenizer.hpp</in>
+              <in>XMLUCS4Transcoder.cpp</in>
+              <in>XMLUCS4Transcoder.hpp</in>
+              <in>XMLURL.cpp</in>
+              <in>XMLURL.hpp</in>
+              <in>XMLUTF16Transcoder.cpp</in>
+              <in>XMLUTF16Transcoder.hpp</in>
+              <in>XMLUTF8Transcoder.cpp</in>
+              <in>XMLUTF8Transcoder.hpp</in>
+              <in>XMLUni.cpp</in>
+              <in>XMLUni.hpp</in>
+              <in>XMLUniDefs.hpp</in>
+              <in>XMLUri.cpp</in>
+              <in>XMLUri.hpp</in>
+              <in>XMLWin1252Transcoder.cpp</in>
+              <in>XMLWin1252Transcoder.hpp</in>
+              <in>XMemory.cpp</in>
+              <in>XMemory.hpp</in>
+              <in>XercesDefs.hpp</in>
+              <in>XercesVersion.hpp</in>
+              <in>Xerces_autoconf_config.borland.hpp</in>
+              <in>Xerces_autoconf_config.hpp</in>
+              <in>Xerces_autoconf_config.msvc.hpp</in>
+            </df>
+            <df name="validators">
+              <df name="common">
+                <df name=".deps">
+                </df>
+                <df name=".libs">
+                </df>
+                <in>AllContentModel.cpp</in>
+                <in>AllContentModel.hpp</in>
+                <in>CMAny.cpp</in>
+                <in>CMAny.hpp</in>
+                <in>CMBinaryOp.cpp</in>
+                <in>CMBinaryOp.hpp</in>
+                <in>CMLeaf.hpp</in>
+                <in>CMNode.hpp</in>
+                <in>CMRepeatingLeaf.hpp</in>
+                <in>CMStateSet.hpp</in>
+                <in>CMUnaryOp.cpp</in>
+                <in>CMUnaryOp.hpp</in>
+                <in>ContentLeafNameTypeVector.cpp</in>
+                <in>ContentLeafNameTypeVector.hpp</in>
+                <in>ContentSpecNode.cpp</in>
+                <in>ContentSpecNode.hpp</in>
+                <in>DFAContentModel.cpp</in>
+                <in>DFAContentModel.hpp</in>
+                <in>Grammar.cpp</in>
+                <in>Grammar.hpp</in>
+                <in>GrammarResolver.cpp</in>
+                <in>GrammarResolver.hpp</in>
+                <in>MixedContentModel.cpp</in>
+                <in>MixedContentModel.hpp</in>
+                <in>SimpleContentModel.cpp</in>
+                <in>SimpleContentModel.hpp</in>
+              </df>
+              <df name="datatype">
+                <df name=".deps">
+                </df>
+                <df name=".libs">
+                </df>
+                <in>AbstractNumericFacetValidator.cpp</in>
+                <in>AbstractNumericFacetValidator.hpp</in>
+                <in>AbstractNumericValidator.cpp</in>
+                <in>AbstractNumericValidator.hpp</in>
+                <in>AbstractStringValidator.cpp</in>
+                <in>AbstractStringValidator.hpp</in>
+                <in>AnySimpleTypeDatatypeValidator.cpp</in>
+                <in>AnySimpleTypeDatatypeValidator.hpp</in>
+                <in>AnyURIDatatypeValidator.cpp</in>
+                <in>AnyURIDatatypeValidator.hpp</in>
+                <in>Base64BinaryDatatypeValidator.cpp</in>
+                <in>Base64BinaryDatatypeValidator.hpp</in>
+                <in>BooleanDatatypeValidator.cpp</in>
+                <in>BooleanDatatypeValidator.hpp</in>
+                <in>DatatypeValidator.cpp</in>
+                <in>DatatypeValidator.hpp</in>
+                <in>DatatypeValidatorFactory.cpp</in>
+                <in>DatatypeValidatorFactory.hpp</in>
+                <in>DateDatatypeValidator.cpp</in>
+                <in>DateDatatypeValidator.hpp</in>
+                <in>DateTimeDatatypeValidator.cpp</in>
+                <in>DateTimeDatatypeValidator.hpp</in>
+                <in>DateTimeValidator.cpp</in>
+                <in>DateTimeValidator.hpp</in>
+                <in>DayDatatypeValidator.cpp</in>
+                <in>DayDatatypeValidator.hpp</in>
+                <in>DecimalDatatypeValidator.cpp</in>
+                <in>DecimalDatatypeValidator.hpp</in>
+                <in>DoubleDatatypeValidator.cpp</in>
+                <in>DoubleDatatypeValidator.hpp</in>
+                <in>DurationDatatypeValidator.cpp</in>
+                <in>DurationDatatypeValidator.hpp</in>
+                <in>ENTITYDatatypeValidator.cpp</in>
+                <in>ENTITYDatatypeValidator.hpp</in>
+                <in>FloatDatatypeValidator.cpp</in>
+                <in>FloatDatatypeValidator.hpp</in>
+                <in>HexBinaryDatatypeValidator.cpp</in>
+                <in>HexBinaryDatatypeValidator.hpp</in>
+                <in>IDDatatypeValidator.cpp</in>
+                <in>IDDatatypeValidator.hpp</in>
+                <in>IDREFDatatypeValidator.cpp</in>
+                <in>IDREFDatatypeValidator.hpp</in>
+                <in>InvalidDatatypeFacetException.hpp</in>
+                <in>InvalidDatatypeValueException.hpp</in>
+                <in>ListDatatypeValidator.cpp</in>
+                <in>ListDatatypeValidator.hpp</in>
+                <in>MonthDatatypeValidator.cpp</in>
+                <in>MonthDatatypeValidator.hpp</in>
+                <in>MonthDayDatatypeValidator.cpp</in>
+                <in>MonthDayDatatypeValidator.hpp</in>
+                <in>NCNameDatatypeValidator.cpp</in>
+                <in>NCNameDatatypeValidator.hpp</in>
+                <in>NOTATIONDatatypeValidator.cpp</in>
+                <in>NOTATIONDatatypeValidator.hpp</in>
+                <in>NameDatatypeValidator.cpp</in>
+                <in>NameDatatypeValidator.hpp</in>
+                <in>QNameDatatypeValidator.cpp</in>
+                <in>QNameDatatypeValidator.hpp</in>
+                <in>StringDatatypeValidator.cpp</in>
+                <in>StringDatatypeValidator.hpp</in>
+                <in>TimeDatatypeValidator.cpp</in>
+                <in>TimeDatatypeValidator.hpp</in>
+                <in>UnionDatatypeValidator.cpp</in>
+                <in>UnionDatatypeValidator.hpp</in>
+                <in>XMLCanRepGroup.cpp</in>
+                <in>XMLCanRepGroup.hpp</in>
+                <in>YearDatatypeValidator.cpp</in>
+                <in>YearDatatypeValidator.hpp</in>
+                <in>YearMonthDatatypeValidator.cpp</in>
+                <in>YearMonthDatatypeValidator.hpp</in>
+              </df>
+              <df name="DTD">
+                <df name=".deps">
+                </df>
+                <df name=".libs">
+                </df>
+                <in>DTDAttDef.cpp</in>
+                <in>DTDAttDef.hpp</in>
+                <in>DTDAttDefList.cpp</in>
+                <in>DTDAttDefList.hpp</in>
+                <in>DTDElementDecl.cpp</in>
+                <in>DTDElementDecl.hpp</in>
+                <in>DTDEntityDecl.cpp</in>
+                <in>DTDEntityDecl.hpp</in>
+                <in>DTDGrammar.cpp</in>
+                <in>DTDGrammar.hpp</in>
+                <in>DTDScanner.cpp</in>
+                <in>DTDScanner.hpp</in>
+                <in>DTDValidator.cpp</in>
+                <in>DTDValidator.hpp</in>
+                <in>DocTypeHandler.hpp</in>
+                <in>XMLDTDDescriptionImpl.cpp</in>
+                <in>XMLDTDDescriptionImpl.hpp</in>
+              </df>
+              <df name="schema">
+                <df name=".deps">
+                </df>
+                <df name=".libs">
+                </df>
+                <df name="identity">
+                  <df name=".deps">
+                  </df>
+                  <df name=".libs">
+                  </df>
+                  <in>FieldActivator.cpp</in>
+                  <in>FieldActivator.hpp</in>
+                  <in>FieldValueMap.cpp</in>
+                  <in>FieldValueMap.hpp</in>
+                  <in>IC_Field.cpp</in>
+                  <in>IC_Field.hpp</in>
+                  <in>IC_Key.cpp</in>
+                  <in>IC_Key.hpp</in>
+                  <in>IC_KeyRef.cpp</in>
+                  <in>IC_KeyRef.hpp</in>
+                  <in>IC_Selector.cpp</in>
+                  <in>IC_Selector.hpp</in>
+                  <in>IC_Unique.cpp</in>
+                  <in>IC_Unique.hpp</in>
+                  <in>IdentityConstraint.cpp</in>
+                  <in>IdentityConstraint.hpp</in>
+                  <in>IdentityConstraintHandler.cpp</in>
+                  <in>IdentityConstraintHandler.hpp</in>
+                  <in>ValueStore.cpp</in>
+                  <in>ValueStore.hpp</in>
+                  <in>ValueStoreCache.cpp</in>
+                  <in>ValueStoreCache.hpp</in>
+                  <in>XPathException.hpp</in>
+                  <in>XPathMatcher.cpp</in>
+                  <in>XPathMatcher.hpp</in>
+                  <in>XPathMatcherStack.cpp</in>
+                  <in>XPathMatcherStack.hpp</in>
+                  <in>XPathSymbols.cpp</in>
+                  <in>XPathSymbols.hpp</in>
+                  <in>XercesXPath.cpp</in>
+                  <in>XercesXPath.hpp</in>
+                </df>
+                <in>ComplexTypeInfo.cpp</in>
+                <in>ComplexTypeInfo.hpp</in>
+                <in>GeneralAttributeCheck.cpp</in>
+                <in>GeneralAttributeCheck.hpp</in>
+                <in>NamespaceScope.cpp</in>
+                <in>NamespaceScope.hpp</in>
+                <in>PSVIDefs.hpp</in>
+                <in>SchemaAttDef.cpp</in>
+                <in>SchemaAttDef.hpp</in>
+                <in>SchemaAttDefList.cpp</in>
+                <in>SchemaAttDefList.hpp</in>
+                <in>SchemaElementDecl.cpp</in>
+                <in>SchemaElementDecl.hpp</in>
+                <in>SchemaGrammar.cpp</in>
+                <in>SchemaGrammar.hpp</in>
+                <in>SchemaInfo.cpp</in>
+                <in>SchemaInfo.hpp</in>
+                <in>SchemaSymbols.cpp</in>
+                <in>SchemaSymbols.hpp</in>
+                <in>SchemaValidator.cpp</in>
+                <in>SchemaValidator.hpp</in>
+                <in>SubstitutionGroupComparator.cpp</in>
+                <in>SubstitutionGroupComparator.hpp</in>
+                <in>TraverseSchema.cpp</in>
+                <in>TraverseSchema.hpp</in>
+                <in>XMLSchemaDescriptionImpl.cpp</in>
+                <in>XMLSchemaDescriptionImpl.hpp</in>
+                <in>XSDDOMParser.cpp</in>
+                <in>XSDDOMParser.hpp</in>
+                <in>XSDErrorReporter.cpp</in>
+                <in>XSDErrorReporter.hpp</in>
+                <in>XSDLocator.cpp</in>
+                <in>XSDLocator.hpp</in>
+                <in>XUtil.cpp</in>
+                <in>XUtil.hpp</in>
+                <in>XercesAttGroupInfo.cpp</in>
+                <in>XercesAttGroupInfo.hpp</in>
+                <in>XercesElementWildcard.cpp</in>
+                <in>XercesElementWildcard.hpp</in>
+                <in>XercesGroupInfo.cpp</in>
+                <in>XercesGroupInfo.hpp</in>
+              </df>
+            </df>
+            <df name="xinclude">
+              <df name=".deps">
+              </df>
+              <df name=".libs">
+              </df>
+              <in>XIncludeDOMDocumentProcessor.cpp</in>
+              <in>XIncludeDOMDocumentProcessor.hpp</in>
+              <in>XIncludeLocation.cpp</in>
+              <in>XIncludeLocation.hpp</in>
+              <in>XIncludeUtils.cpp</in>
+              <in>XIncludeUtils.hpp</in>
+            </df>
+          </df>
+          <in>MemSpecParser.cc</in>
+          <in>MemSpecParser.h</in>
+          <in>XMLHandler.cc</in>
+          <in>XMLHandler.h</in>
+          <in>XMLParser.cc</in>
+          <in>XMLParser.h</in>
+        </df>
+        <in>ALDRAM.cpp</in>
+        <in>ALDRAM.h</in>
+        <in>Cache.cpp</in>
+        <in>Cache.h</in>
+        <in>CmdScheduler.cc</in>
+        <in>CmdScheduler.h</in>
+        <in>CommandAnalysis.cc</in>
+        <in>CommandAnalysis.h</in>
+        <in>Config.cpp</in>
+        <in>Config.h</in>
+        <in>Controller.cpp</in>
+        <in>Controller.h</in>
+        <in>DDR3.cpp</in>
+        <in>DDR3.h</in>
+        <in>DDR4.cpp</in>
+        <in>DDR4.h</in>
+        <in>DRAM.h</in>
+        <in>DSARP.cpp</in>
+        <in>DSARP.h</in>
+        <in>GDDR5.cpp</in>
+        <in>GDDR5.h</in>
+        <in>Gem5Wrapper.cpp</in>
+        <in>Gem5Wrapper.h</in>
+        <in>HBM.cpp</in>
+        <in>HBM.h</in>
+        <in>HMC.cpp</in>
+        <in>HMC.h</in>
+        <in>HMC_Controller.h</in>
+        <in>HMC_Memory.h</in>
+        <in>LPDDR3.cpp</in>
+        <in>LPDDR3.h</in>
+        <in>LPDDR4.cpp</in>
+        <in>LPDDR4.h</in>
+        <in>LogicLayer.cpp</in>
+        <in>LogicLayer.h</in>
+        <in>Main.cpp</in>
+        <in>MemArchitectureSpec.cc</in>
+        <in>MemArchitectureSpec.h</in>
+        <in>MemCommand.cc</in>
+        <in>MemCommand.h</in>
+        <in>MemPowerSpec.cc</in>
+        <in>MemPowerSpec.h</in>
+        <in>MemTimingSpec.cc</in>
+        <in>MemTimingSpec.h</in>
+        <in>Memory.h</in>
+        <in>MemoryFactory.cpp</in>
+        <in>MemoryFactory.h</in>
+        <in>MemoryPowerModel.cc</in>
+        <in>MemoryPowerModel.h</in>
+        <in>MemorySpecification.cc</in>
+        <in>MemorySpecification.h</in>
+        <in>Packet.cpp</in>
+        <in>Packet.h</in>
+        <in>Parameter.cc</in>
+        <in>Parameter.h</in>
+        <in>Parametrisable.cc</in>
+        <in>Parametrisable.h</in>
+        <in>Processor.cpp</in>
+        <in>Processor.h</in>
+        <in>Refresh.cpp</in>
+        <in>Refresh.h</in>
+        <in>Request.h</in>
+        <in>SALP.cpp</in>
+        <in>SALP.h</in>
+        <in>Scheduler.h</in>
+        <in>SpeedyController.h</in>
+        <in>StatType.cpp</in>
+        <in>StatType.h</in>
+        <in>Statistics.h</in>
+        <in>TLDRAM.cpp</in>
+        <in>TLDRAM.h</in>
+        <in>TraceParser.cc</in>
+        <in>TraceParser.h</in>
+        <in>Utils.h</in>
+        <in>WideIO.cpp</in>
+        <in>WideIO.h</in>
+        <in>WideIO2.cpp</in>
+        <in>WideIO2.h</in>
+      </df>
+    </df>
+    <itemPath>src/MindMap.mmd</itemPath>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <platform>4</platform>
+      </toolsSet>
+      <compile>
+        <compiledirpicklist>
+          <compiledirpicklistitem>.</compiledirpicklistitem>
+          <compiledirpicklistitem>${AUTO_FOLDER}</compiledirpicklistitem>
+        </compiledirpicklist>
+        <compiledir>${AUTO_FOLDER}</compiledir>
+        <compilecommandpicklist>
+          <compilecommandpicklistitem>${MAKE} ${ITEM_NAME}.o</compilecommandpicklistitem>
+          <compilecommandpicklistitem>${AUTO_COMPILE}</compilecommandpicklistitem>
+        </compilecommandpicklist>
+        <compilecommand>${AUTO_COMPILE}</compilecommand>
+      </compile>
+      <dbx_gdbdebugger version="1">
+        <gdb_pathmaps>
+        </gdb_pathmaps>
+        <gdb_interceptlist>
+          <gdbinterceptoptions gdb_all="false" gdb_unhandled="true" gdb_unexpected="true"/>
+        </gdb_interceptlist>
+        <gdb_options>
+          <DebugOptions>
+          </DebugOptions>
+        </gdb_options>
+        <gdb_buildfirst gdb_buildfirst_overriden="false" gdb_buildfirst_old="false"/>
+      </dbx_gdbdebugger>
+      <nativedebugger version="1">
+        <engine>gdb</engine>
+      </nativedebugger>
+      <runprofile version="9">
+        <runcommandpicklist>
+          <runcommandpicklistitem>"${OUTPUT_PATH}"</runcommandpicklistitem>
+          <runcommandpicklistitem>./ramulator </runcommandpicklistitem>
+          <runcommandpicklistitem>./ramulator --config /conf</runcommandpicklistitem>
+          <runcommandpicklistitem>./ramulator -g --config ./configs/HMC-config.cfg --mode=dram --trace dram.trace</runcommandpicklistitem>
+          <runcommandpicklistitem></runcommandpicklistitem>
+          <runcommandpicklistitem>main()</runcommandpicklistitem>
+          <runcommandpicklistitem>./ramulator --config ./configs/HMC-config.cfg --mode=cpu --trace cpu.trace</runcommandpicklistitem>
+          <runcommandpicklistitem>./ramulator --mode=cpu --trace cpu.trace</runcommandpicklistitem>
+          <runcommandpicklistitem>./ramulator --config ./configs/HMC-config.cfg --mode=dram --trace dram.trace</runcommandpicklistitem>
+        </runcommandpicklist>
+        <runcommand>./ramulator --config ./configs/HMC-config.cfg --mode=dram --trace dram.trace</runcommand>
+        <rundir>.</rundir>
+        <buildfirst>false</buildfirst>
+        <terminal-type>0</terminal-type>
+        <remove-instrumentation>0</remove-instrumentation>
+        <environment>
+        </environment>
+      </runprofile>
+    </conf>
+  </confs>
+</configurationDescriptor>

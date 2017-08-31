@@ -1,0 +1,2 @@
+Options: 
+CMake: 3.7.2@/Applications/WebDev/CLion.app/Contents/bin/cmake/bin/cmake
